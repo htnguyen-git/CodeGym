@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    let chCao = parseFloat(prompt("Nhap chieu cao (met) "));
+    let cNang = parseFloat(prompt("Nhap can nang (kg)"));
+    let BMI = cNang/(chCao*chCao);
+    if(BMI < 18.5){
+        alert("Qúa nhẹ ");
+    }
+    if(BMI < 25 && BMI > 18.5){
+        alert("Trọng lượng bình thường");
+    }
+    if(BMI < 30 && BMI >25){
+        alert("Qúa cân");
+    }
+    if(BMI >30){
+        alert("Thừa cân");
+    }
+    
+    </script>
+</body>
+</html>
