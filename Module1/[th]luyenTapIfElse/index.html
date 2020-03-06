@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thuc hanh luyen tap if else</title>
+</head>
+<body>
+    <p>What is the official' name of JavaScript?</p>
+    <input type="text" id="cauTraLoi">
+    <button id="kTra" onclick="kiemTra()">Kiem Tra</button>
+    <script>
+        function kiemTra(){
+            let cauTraLoi = document.getElementById("cauTraLoi").value;
+            if (cauTraLoi == "ECMAScript") {
+                document.open();
+                document.write("Right!");
+                document.close();
+            } else {
+                document.open();
+                document.write("Did't know? It is ECMAScript");
+                document.close();
+            }
+        }
+            
+    </script>
+</body>
+</html>
