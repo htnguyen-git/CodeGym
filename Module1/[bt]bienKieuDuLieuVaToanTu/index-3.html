@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tinh dien tich va chu vi</title>
+</head>
+<body>
+    <h3>Bán kính hình tròn </h3>
+    <input type="text" id="banKinh">
+    <button onclick="tinhDTHinhTron(); tinhChuViHinhTron()" >Tinh</button>
+    <p>Dien tich hinh tron la :</p>
+    <textarea id="dienTich" cols="10" rows="1"></textarea>
+    <p>Chu vi hinh tron</p>
+    <textarea id="chuVi" cols="10" rows="1"></textarea>
+    <script>
+        let banKinh = document.getElementById("banKinh").value;
+        function tinhDTHinhTron(){
+            document.getElementById("dienTich").innerHTML = banKinh*banKinh*3.14;
+        }
+        function tinhChuViHinhTron(){
+            document.getElementById("chuVi").innerHTML = banKinh*2*3.14;
+        }
+    </script>
+
+</body>
+</html>

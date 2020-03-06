@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài tập về biến, kiểu dữ liệu và toán tử 1</title>
+</head>
+<body>
+    <h3>Điểm Toán 
+        <input type="text" id="diemToan">
+    </h3>
+    <h3>Điểm Lý
+        <input type="text" id="diemLy">
+    </h3>
+    <h3>Điểm Hóa
+        <input type="text" id="diemHoa">
+    </h3>
+
+    <h1>Điểm trung bình 
+        <input type="button" onclick="tinhDTB()" value="Tính">
+        
+        <textarea id="diemTB" cols="10" rows="2"></textarea>
+    </h1>
+    
+        <script>
+       
+            function tinhDTB(){
+            let diemToan =  parseFloat(document.getElementById("diemToan").value);
+            let diemLy = parseFloat(document.getElementById("diemLy").value); 
+            let diemHoa = parseFloat(document.getElementById("diemHoa").value);
+            let diemTB = (diemToan + diemLy + diemHoa)/3;
+            document.getElementById("diemTB").innerHTML = diemTB;
+            }
+        </script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đổi Celcius sang Fahrenheit </title>
+</head>
+<body>
+    <h3>
+        <input type="text" id="doC"> <sup>o</sup>C <button onclick="tinh()">Tính</button>
+    </h3>
+    <h3>
+        <textarea id="doF" cols="25" rows="1"></textarea>F
+    </h3>
+    <script>
+        function tinh(){
+            let doC = document.getElementById("doC").value;
+            document.getElementById("doF").innerHTML = doC*9/5+32;
+        }
+    </script>
+</body>
+</html>
