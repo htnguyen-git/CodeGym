@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let tKhoan = prompt("Ten cua ban la gi: ","");
+        if (tKhoan==="admin") {
+            let mkhau = prompt("Vui long nhap mat khau:")
+            
+            if (mkhau =="The master") {
+                alert("Welcome");
+            } else if (mkhau === null) {
+                alert("Canceled");
+            }else{
+                alert("Wrong password");
+            }
+        } else if (tKhoan === null) {
+            alert("Canceled")
+        }else{
+            alert("I don't know you");
+        }
+            
+        
+    </script>
+</body>
+</html>
