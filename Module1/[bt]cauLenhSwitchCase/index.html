@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tính số ngày trong tháng</title>
+</head>
+<body>
+    <form action="" onsubmit="tinhSoNgay()">
+        <label for="thang">Thang</label>
+        <input id="thang" name="thang">
+        <input type="submit" name="submit" value="Tinh thang" >
+    </form>
+        <p id="songay"></p>
+    <script>
+        function tinhSoNgay(){
+            let thang = parseInt( document.getElementById("thang").value);
+            let soNgay;
+            switch (thang) {
+                case 1 , 3, 5, 7, 8, 10, 12:
+                    soNgay = 31;
+                    break;
+                case 4, 6, 9, 11:
+                    soNgay = 30
+                case 2:
+                    soNgay = "28 hoac 29"
+                    break;
+            }
+            document.write("thang "+thang+" co: " +soNgay +" ngay")
+        }
+    </script>
+</body>
+</html>
