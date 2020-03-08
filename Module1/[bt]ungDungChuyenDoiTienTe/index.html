@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ứng dụng chuyển đổi tiền tệ</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Amount</th>
+            <th>From Currency</th>
+            <th>To Currency</th>
+        </tr>
+        <tr>
+            <td>
+                <input type="text" id="giaTriCanDoi">
+            </td>
+            <td>
+                <select name="fromCurrency" id="fromCurrency">
+                    <option value="VND">VND</option>
+                    <option value="USD">USD</option>
+                </select>
+            </td>
+            <td>
+                <select name="toCurrency" id="toCurrency">
+                    <option value="USD">USD</option>
+                    <option value="VND">VND</option>
+                </select>
+            </td>
+            <td>
+                <button onclick="conVert()">Convert</button>
+            </td>
+        </tr>
+       
+    </table>
+    <p id="calculated"></p>
+    <script>
+       
+        function conVert(){
+        let giaTricanDoi =parseFloat( document.getElementById("giaTriCanDoi").value);
+        let fromCurrency = document.getElementById("fromCurrency").value;
+        let toCurrency = document.getElementById("toCurrency").value;
+        let giaTriDaConvert;
+        if (fromCurrency == "USD") {
+            if (toCurrency =="VND") {
+                giaTriDaConvert = giaTricanDoi*23000;
+            } else {
+                giaTriDaConvert = giaTricanDoi;
+            }
+        } else {
+            if (toCurrency == "USD") {
+                giaTriDaConvert = giaTricanDoi/23000;
+            } else {
+                giaTriDaConvert = giaTricanDoi;
+            }
+        }
+            document.getElementById("calculated").innerHTML= 
+            ("result : " +giaTriDaConvert + " "+toCurrency);
+        }
+            
+        
+        
+    </script>
+</body>
+</html>
