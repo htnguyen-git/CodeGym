@@ -6,7 +6,7 @@
     <title>Tính số ngày trong tháng</title>
 </head>
 <body>
-    <form action="" onsubmit="tinhSoNgay()">
+    <form onsubmit="tinhSoNgay()">
         <label for="thang">Thang</label>
         <input id="thang" name="thang">
         <input type="submit" name="submit" value="Tinh thang" >
@@ -26,7 +26,7 @@
                     soNgay = "28 hoac 29"
                     break;
             }
-            document.write("thang "+thang+" co: " +soNgay +" ngay")
+            document.getElementById("songay").innerHTML = ("So ngay cua thang " + thang + " la " + soNgay+ " ngay");
         }
     </script>
 </body>
