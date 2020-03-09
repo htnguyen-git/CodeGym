@@ -8,10 +8,13 @@
 <body>
     <script>
         let value = null;
+        let total = null;
         do {
-            value = prompt("Nhap vao so 1 --> 10");
-        } while (value<1 || value >10);
+            value = parseFloat( prompt("Nhap vao so 1 --> 10"));
             alert("So van vua nhap la:" +value);
+            total += (value);
+        } while (value <= 10 && value >=1);
+            alert ("Tong cac so ban da nhap la : " +total);
     </script>
 </body>
 </html>
