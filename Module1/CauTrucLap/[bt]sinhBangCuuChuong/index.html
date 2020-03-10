@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="bangCuuChuong.css">
+</head>
+<body>
+   
+</body>
+<script>
+    let ngang =null;
+    let doc = null;
+    document.write("<table>");
+    for (let ngang = 1; ngang <=9; ngang++) {
+        document.write("<tr>");
+        for (let doc = 1; doc <= 9; doc++) {
+            document.write("<td>");
+            document.write(doc + "*" +ngang +"="+ doc*ngang );
+            document.write("</td>");
+        }
+        document.write("</tr>");
+    }
+    document.write("</table>");
+</script>
+</html>
