@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tính diện tích hình vuông</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Canh a =</td>
+            <td><input type="text" id="canhA"></td>
+           
+        </tr>
+        <tr>
+            <td>Dien tich hinh vuong la: </td>
+            <td><button onclick="tinh()">Tính</button></td>
+            <td id="ketQua"></td>
+        </tr>
+    </table>
+    <script>
+        function tinh(){
+            let canhA = parseFloat( document.getElementById("canhA").value);
+            let ketQua = canhA *canhA;
+            document.getElementById("ketQua").innerHTML = ketQua;
+        }
+    </script>
+</body>
+</html>

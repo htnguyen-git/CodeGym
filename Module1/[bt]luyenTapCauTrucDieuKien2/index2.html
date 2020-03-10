@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chuyển từ met sang feet</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><input type="text" id="met"></td>
+            <td>met</td>
+            <td><button onclick="convert()">Chuyển</button></td>
+            <td id="feet"> </td>
+            <td>feet</td>
+            
+        </tr>
+    </table>
+    <script>
+        function convert(){
+            let met =parseFloat( document.getElementById("met").value);
+            let feet = met*3.2808;
+            document.getElementById("feet").innerHTML= feet;
+        }
+    </script>
+</body>
+</html>

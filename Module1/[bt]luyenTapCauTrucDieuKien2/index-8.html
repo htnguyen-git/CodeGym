@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiểm tra tuổi của một người</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Nhập vào só tuổi</td>
+            <td><input type="text" id="tuoi"></td>
+            <td><button onclick="kiemTra()">Kiểm tra</button></td>
+            <td id="xacNhan"></td>
+        </tr>
+    </table>
+    <script>
+        function kiemTra(){
+            let ketQua= document.getElementById("xacNhan");
+            let tuoi = parseFloat(document.getElementById("tuoi").value);
+            if (Number.isNaN(tuoi)) {
+                ketQua.innerHTML = "Nhập vào một số "
+            }
+            if (Number.isInteger(tuoi)) {
+                ketQua.innerHTML = "Nhập vào một số nguyên dương"
+            }
+            if (tuoi >120 || tuoi <0) {
+                document.getElementById("xacNhan").innerHTML = " Không phải con người, thành tinh rồi";
+            }else{
+                document.getElementById("xacNhan").innerHTML = " Là tuổi con người";
+            }    
+           
+        }
+        
+    </script>
+    
+</body>
+</html>

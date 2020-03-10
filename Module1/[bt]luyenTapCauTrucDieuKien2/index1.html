@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chuyển từ độ C sang F</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><input type="text" id="doC"></td>
+            <td><sup>o</sup>C</td>
+            
+            <td><button onclick="convert()">Chuyển</button></td>
+            <td></td>
+            <td id="doF"></td>
+            <td><sup>o</sup>F</td>
+        </tr>
+        
+    </table>
+    <script>
+        function convert(){
+            let doC =parseFloat( document.getElementById("doC").value);
+            let doF = doC*9/5+32;
+            document.getElementById("doF").innerHTML = doF;
+        }
+    </script>
+</body>
+</html>

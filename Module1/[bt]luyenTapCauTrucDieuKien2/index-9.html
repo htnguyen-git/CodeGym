@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3 cạnh này có tạo nên 1 tam giác?</title>
+</head>
+<body> 
+    <table>
+        <tr>
+            <td>Cạnh a </td>
+            <td><input type="text" id="canhA"></td>
+        </tr>
+        <tr>
+            <td>Cạnh b </td>
+            <td><input type="text" id="canhB"></td>
+        </tr>
+        <tr>
+            <td>Cạnh c </td>
+            <td><input type="text" id="canhC"></td>
+        </tr>
+        <tr>
+            <td><button onclick="kiemTra()">Kiểm tra</button></td>
+            <td id="xacNhan"></td>
+        </tr>
+    </table>
+    <script>
+        function kiemTra(){
+            let xacNhan = false;
+            let canhA = parseFloat(document.getElementById("canhA").value);
+            let canhB = parseFloat(document.getElementById("canhB").value);
+            let canhC = parseFloat(document.getElementById("canhC").value);
+            if ((canhA < canhB + canhC) && (canhC < canhB + canhA) && (canhB < canhA + canhC)) {
+                xacNhan = true;
+            }
+            if (xacNhan) {
+                document.getElementById("xacNhan").innerHTML = "Đây là một hình tam giác";
+            }else{
+                document.getElementById("xacNhan").innerHTML = "Đây không là một hình tam giác";
+            }
+        }
+    </script>
+</body>
+</html>

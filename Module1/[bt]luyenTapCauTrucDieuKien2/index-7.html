@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giai phuong trinh bac 2</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th colspan="2">a*x<sup>2</sup> + b*x + c = 0</th>
+        </tr>
+        <tr>
+            <td>a = </td>
+            <td><input type="text" id="a"></td>
+        </tr>
+        <tr>
+            <td>b = </td>
+            <td><input type="text" id="b"></td>
+        </tr>
+        <tr>
+            <td>c = </td>
+            <td><input type="text" id="c"></td>
+        </tr>
+        <tr>
+            <td><button onclick="tinh()">Tính x</button> </td>
+            <td id="ketQua"></td>
+        </tr>
+    </table>
+    <script>
+        function tinh(){
+            let a = parseFloat( document.getElementById("a").value);
+            let b = parseFloat( document.getElementById("b").value);
+            let c = parseFloat( document.getElementById("c").value);
+            let delta = b*b - 4*a*c;
+           
+            if (delta == 0) {
+                document.getElementById("ketQua").innerHTML = "x1 = x2 = " +-b/a;
+            }
+            if (delta >0) {
+                document.getElementById("ketQua").innerHTML = " x1 = " +(-b + Math.sqrt(delta))/(2*a)
+                +"<br>" 
+                +"x2 = " + (b + Math.sqrt(delta))/(2*a)
+            }
+            if (delta < 0) {
+                document.getElementById("ketQua").innerHTML = "Phuong trinh khong co nghiem thuc";
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tính giá điện 10-03-2020</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Số điện sinh hoạt (kW)</td>
+            <td><input type="text" id="soDien"></td>
+            <td><button onclick="tinhTien()">Tính tiền</button></td>
+            <td id="gia"></td>
+        </tr>
+    </table>
+    <script>
+        
+        function tinhTien(){
+            let soDien = parseFloat(document.getElementById("soDien").value);
+            let tienDien =null;
+            if (soDien > 400) {
+                tienDien = (soDien -400) * 2979;
+                soDien = 400;
+            }
+            if (soDien >300) {
+                tienDien += (soDien - 300) * 2834;
+                soDien = 300;
+            }
+            if (soDien >200 ) {
+                tienDien += (soDien -200) * 2536;
+                soDien =200;
+            }
+            if (soDien >100 ) {
+                tienDien += (soDien -200) * 2014;
+                soDien =100;
+            }
+            if (soDien >50) {
+                tienDien += (soDien -50 ) * 1734;
+                soDien = 50;
+            }
+            if (soDien >0) {
+                tienDien += soDien * 1678;
+            }
+            document.getElementById("gia").innerHTML = tienDien;
+        }
+    </script>
+</body>
+</html>

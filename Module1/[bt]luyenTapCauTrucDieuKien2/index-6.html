@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giải phương trình bậc nhất</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th colspan="2">a*x + b = 0</th>
+        </tr>
+        <tr>
+            <td>a = </td>
+            <td><input type="text" id="a"></td>
+        </tr>
+        <tr>
+            <td>b = </td>
+            <td><input type="text" id="b"></td>
+        </tr>
+        <tr>
+            <td><button onclick="tinh()">Tính x</button> </td>
+            <td id="ketQua"></td>
+        </tr>
+    </table>
+    <script>
+        function tinh(){
+        let a = parseFloat( document.getElementById("a").value);
+        let b = parseFloat( document.getElementById("b").value);
+        document.getElementById("ketQua").innerHTML = -b/a;
+        } 
+    </script>
+</body>
+</html>

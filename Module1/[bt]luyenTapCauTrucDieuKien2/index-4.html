@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tính diện tích hình chữ nhật</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Nhập cạnh a </td>
+            <td><input type="text" id="canhA"></td>
+        </tr>
+        <tr>
+            <td>Nhập cạnh b </td>
+            <td><input type="text" id="canhB"></td>
+        </tr>
+        <tr>
+            <td><button onclick="tinh()">Tính diện tích</button> </td>
+            <td id="dienTich"></td>
+        </tr>
+    </table>
+    <script>
+        function tinh(){
+            let canhA = parseFloat(document.getElementById("canhA").value);
+            let canhB = parseFloat(document.getElementById("canhB").value);
+            
+            document.getElementById("dienTich").innerHTML = canhA*canhB;
+        }
+    </script>
+</body>
+</html>
