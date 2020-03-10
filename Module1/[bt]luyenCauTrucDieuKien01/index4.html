@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tìm số lớn nhất</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Số A</td>
+            <td><input type="text" id="soA"></td>
+        </tr>
+        <tr>
+            <td>Số B</td>
+            <td><input type="text" id="soB"></td>
+        </tr>
+        <tr>
+            <td>Số C</td>
+            <td><input type="text" id="soC"></td>
+        </tr>
+        <tr>
+            <td>Số lớn nhất</td>
+            <td><button onclick="timSoLonNhat()">Tìm</button></td>
+        </tr>
+        <tr>
+            <td>Số lớn nhất trong 3 số là:</td>
+            <td id="ketQua"></td>
+        </tr>
+    </table>
+        <script>
+            
+            function timSoLonNhat(){
+                let soA =parseFloat( document.getElementById("soA").value);
+                let soB =parseFloat( document.getElementById("soB").value);
+                let soC =parseFloat( document.getElementById("soC").value);
+                ketQua = null;
+                if (soA > soB && soA > soC) {
+                    ketQua = soA;
+                }
+                if (soB > soA && soB > soC) {
+                    ketQua = soB;
+                }
+                if (soC > soB && soC > soA) {
+                    ketQua = soC;
+                }
+                document.getElementById("ketQua").innerHTML = ketQua;  
+            }
+        </script>
+</body>
+</html>

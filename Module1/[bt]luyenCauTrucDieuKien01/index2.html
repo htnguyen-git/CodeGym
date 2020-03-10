@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tuổi vào lớp 10</title>
+</head>
+<body>
+    <h1>Bài 2</h1>
+    <table>
+        <tr>
+            <td><input type="text" id="tuoi">Tuổi</td>
+            <td><button onclick="vaoDuocLop10()">Vào lớp 10 </button></td>
+            <td id="ketQua"></td>
+        </tr>
+    </table>
+    <script>
+        function vaoDuocLop10(){
+            let tuoi =parseFloat( document.getElementById("tuoi").value);
+            let duTuoi =document.getElementById("ketQua");
+            if (tuoi >=16) {
+                duTuoi.innerHTML = "Đủ tuổi để vào lớp 10"
+            } else {
+                duTuoi.innerHTML = "Không đủ tuổi để vào lớp 10"
+            }
+        }
+    </script>
+</body>
+</html>

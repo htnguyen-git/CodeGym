@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xếp hạng học lực</title>
+</head>
+    <table>
+        <tr>
+            <td>Điểm kiểm tra(20%)</td>
+            <td><input type="text" id="diemKiemTra"></td>
+        </tr>
+        <tr>
+            <td>Điểm giữa kỳ(30%)</td>
+            <td><input type="text" id="diemGiuaKy"></td>
+        </tr>
+        <tr>
+            <td>Điểm cuối kỳ(50%)</td>
+            <td><input type="text" id="diemCuoiKy"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><button onclick="tinhHocLuc()">Tính</button></td>
+            
+        </tr>
+        <tr>
+            <td>Xếp hạng học lực</td>
+            <td id="xepHang"></td>
+        </tr>
+    </table>
+    <script>
+        function tinhHocLuc(){
+            let diemKiemTra =parseFloat( document.getElementById("diemKiemTra").value);
+            let diemGiuaKy =parseFloat( document.getElementById("diemGiuaKy").value);
+            let diemCuoiKy =parseFloat( document.getElementById("diemCuoiKy").value);
+            let ketQua = diemKiemTra *0.2 + diemGiuaKy*0.3+ diemCuoiKy*0.5;
+            let rank;
+            if (ketQua < 5) {
+                rank = "Yếu";
+            }
+            if (ketQua >= 5) {
+                rank = "Trung bình";
+            }
+            if (ketQua >= 7) {
+                rank = "Khá";
+            }
+            if (ketQua >= 8) {
+                rank = "Giỏi";
+            }
+            if (ketQua >= 9) {
+                rank = "Xuất sắc";
+            }
+            
+            
+            
+          
+            document.getElementById("xepHang").innerHTML = rank;
+        }
+    </script>
+<body>
+    
+</body>
+</html>

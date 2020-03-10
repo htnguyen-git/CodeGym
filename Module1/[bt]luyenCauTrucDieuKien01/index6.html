@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tính hoa hồng theo doanh số</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Doanh số</td>
+            <td><input type="text" id="doanhSo"></td>
+        </tr>
+        <tr>
+            <td>Hoa hồng(%)</td>
+            <td><input type="text" id="hoaHong"></td>
+        </tr>
+        
+        <tr>
+            <td></td>
+            <td><button onclick="tinhTienHoaHong()">Tính</button></td>
+        </tr>
+        <tr>
+            <td>Tiền hoa hồng</td>
+            <td id="tienHoaHong"></td>
+        </tr>
+    </table>
+    <script>
+        function tinhTienHoaHong(){
+            let doanhSo =parseFloat( document.getElementById("doanhSo").value);
+            let hoaHong =parseFloat( document.getElementById("hoaHong").value);
+            let tien = (doanhSo * hoaHong) /100;
+            document.getElementById("tienHoaHong").innerHTML = tien;
+        }
+    </script>
+</body>
+</html>

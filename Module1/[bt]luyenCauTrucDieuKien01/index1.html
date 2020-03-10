@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Bài 1</h1>
+    <table>
+        <tr>
+            <td>Nhập số hạng a</td>
+            <td>Nhập số hạng b</td>
+            <td></td>
+            <td>Kết quả</td>
+        </tr>
+        <tr>
+            <td><input type="text" id="soHangA"></td>
+            <td><input type="text" id="soHangB"></td>
+            <td><button onclick="chiaHet()">Chia hết?</button></td>
+            <td id="ketQua"></td>
+        </tr>
+    </table>
+    <script>
+
+        let ketQua = document.getElementById("ketQua");
+        let soHangA = parseFloat(document.getElementById("soHangA").value);
+        let soHangB =parseFloat( document.getElementById("soHangB").value);
+        function chiaHet(){
+             if (soHangA %soHangB ==0) {
+            ketQua.innerHTML= "Có";
+            } else {
+                ketQua.innerHTML= "Không";
+            }
+        }
+        
+    </script>
+</body>
+
+</html>

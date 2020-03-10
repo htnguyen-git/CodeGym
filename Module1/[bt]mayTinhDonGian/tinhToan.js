@@ -1,5 +1,5 @@
-let ketQua = parseFloat(document.getElementById("tong").value);
-let soHang;
+let showketQua = document.getElementById("showKetQua");
+let ketQua = null;
 function show(){
-  ketQua += document.getElementsByName("so").value;
+  showketQua.innerHTML = ketQua;
 }

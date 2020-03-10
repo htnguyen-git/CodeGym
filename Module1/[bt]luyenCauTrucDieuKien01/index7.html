@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cước điện thoại</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Phí thuê bao</td>
+            <td>25000</td>
+        </tr>
+        <tr>
+            <td>Tổng thời lượng cuộc gọi (phút)</td>
+            <td><input type="text" id="thoiLuong"></td>
+
+        </tr>
+        <tr>
+            <td>Tổng tiền cước</td>
+            <td> <button onclick="tinhTienCuoc()">Tinh</button></td>
+            <td id="tienCuoc"></td>
+        </tr>
+    </table>
+    <script>
+        function tinhTienCuoc(){
+            let thoiLuong =parseFloat( document.getElementById("thoiLuong").value);
+            let tinhTienCuoc = 25000;
+            if (thoiLuong >0) {
+                tinhTienCuoc += thoiLuong*600;
+            }
+            if (thoiLuong >=50) {
+                tinhTienCuoc -= (thoiLuong-50)*200;
+            } 
+            if (thoiLuong>=200) {
+                tinhTienCuoc -=(thoiLuong-200)*200;    
+            }
+            
+           
+            document.getElementById("tienCuoc").innerHTML = tinhTienCuoc;
+        }
+    </script>
+</body>
+</html>
