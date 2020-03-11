@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Từ điển</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>tiengAnh</td>
+            <td><input type="text", id="english"></td>
+            <td><button onclick="dich()">Dịch</button></td>
+        </tr>
+        <tr>
+            <td>tiengViet</td>
+            <td><input type="text" id="tiengViet" value=""></td>
+        </tr>
+    </table>
+    <script>
+        let english = ["hello", "what", "bamboo", "potato"];
+        let tiengViet = ["xin chào", "cái gì", "tre", "khoai tây"];
+        function dich(){
+            let eng = document.getElementById("english").value;
+            let i = english.indexOf(eng);
+            if (i == -1) {
+                document.getElementById("tiengViet").value = "Không tìm thấy";
+            }else{
+            document.getElementById("tiengViet").value = tiengViet[i];
+            }
+        }
+    </script>
+</body>
+</html>
