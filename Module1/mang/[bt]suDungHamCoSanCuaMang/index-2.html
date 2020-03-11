@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chèn - vào các số chẵn</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>nhập vào một số</td>
+            <td><input type="text" id="soNhapVao"></td>
+        </tr>
+        <tr>
+            <td><button onclick="chen()">Chèn</button></td>
+        </tr>
+    </table>
+    <script>
+        function chen(){
+            let soNhapVao =(document.getElementById("soNhapVao").value);
+            let chuoiSo = soNhapVao.toString();
+            let result = [];
+            for (let i = 0; i < chuoiSo.length; i++) {
+                if (chuoiSo[i-1]%2==0 && chuoiSo[i]%2==0) {
+                    result.push("-");
+                    result.push(chuoiSo[i]);
+                }else{
+                    result.push(chuoiSo[i]);
+                }
+            }
+            
+            alert(result.join(""));
+        }
+    </script>
+</body>
+</html>

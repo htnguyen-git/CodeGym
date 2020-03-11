@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đổi ký tự hoa- thường và ngược lại</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Nhập chuỗi cần chuyển </td>
+            <td><input type="text" id="chuoiCanChuyen"></td>
+        </tr>
+        <tr>
+            <td><button onclick="convert()">Convert</button></td>
+        </tr>
+    </table>
+    <script>
+        function convert(){
+            let UPPER = "ABCDEFGHIJKLMNOPQRSTUVXYZ";
+            let LOWER = "abcdefghijklmnopqrstuvxyz";
+        
+            let chuoi = document.getElementById("chuoiCanChuyen").value.toString();
+            let result=[];
+            for (let i = 0; i < chuoi.length; i++) {
+                if (UPPER.indexOf(chuoi[i]) !== -1) {
+                    result.push(chuoi[i].toLowerCase());
+                    continue;
+                }
+                if (LOWER.indexOf(chuoi[i]) !==1) {
+                    result.push(chuoi[i].toUpperCase());
+                    continue;
+                }
+            }
+            alert(result.join(""));
+        }
+        
+    </script>
+    
+</body>
+</html>
