@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="choi()">Chơi</button>
+</body>
+<script>
+    
+    function choi(){
+        let count = 3;
+        alert("Nhập vào một khoảng số ");
+        let soBatDau = +prompt(" Bắt đầu ở : ");
+        let soKetThuc = +prompt(" Kết thúc ở : ");
+        let SODINHMENH = soBatDau+ Math.round( Math.random()*(soKetThuc-soBatDau));
+        while (true) {
+            let soDoan = +prompt("Doan mot so");
+            if (SODINHMENH == soDoan) {
+                alert("Bạn đã đoán đúng");
+                break;
+            }
+            if (SODINHMENH !== soDoan) {
+                count -=1;
+            }
+            if (count ==0) {
+                alert("Hết lượt");
+                alert(SODINHMENH);
+                break;
+            }
+            
+        }
+    }
+</script>
+</html>

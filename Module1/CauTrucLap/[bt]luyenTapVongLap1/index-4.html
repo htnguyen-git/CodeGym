@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let a = 1; b=0;
+        let kq = null;
+        while (true) {
+            kq = a+b;
+            b = b + a;
+            a = b - a;
+            if (kq % 5 == 0) {
+                break;
+            }
+        }
+        document.write("Số đầu tiên trong dãy chia hết cho 5: " +kq);
+    </script>
+</body>
+</html>

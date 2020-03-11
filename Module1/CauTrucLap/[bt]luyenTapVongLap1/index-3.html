@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>20 Số fibonacci</title>
+</head>
+<body>
+    <h1>Dãy 20 số fibonacci</h1>
+
+</body>
+<script>
+    
+    let a  =1; b =0;
+    let ketQua = "";
+    for (let count = 0; count < 20; count++) {
+        ketQua += (a+b) + "<br>";
+        b= a+b;
+        a = b-a;
+    }
+   
+    document.write(ketQua);
+</script>
+</html>

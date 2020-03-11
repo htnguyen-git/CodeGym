@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tổng 20 số fibonacci đầu tiên </title>
+</head>
+<body>
+    <script>
+        let a = 1; b = 0; kq = null;
+        for (let count = 0; count < 20; count++) {
+            kq += a+b;
+            b= b + a ;
+            a = b - a;
+        }
+        document.write("Tổng 20 số đầu tiền trong dãy fibonacci :  " +kq);
+    </script>
+</body>
+</html>
