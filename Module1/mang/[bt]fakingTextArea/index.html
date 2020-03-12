@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faking text area</title>
+</head>
+<body>
+    <textarea id="textarea" cols="30" rows="10" oninput="ghi()"></textarea>
+  
+    
+</body>
+<script>
+    let fakingText ="Như ngoài kia, trời vẫn còn xanh, như trong lòng em vẫn còn anh";
+    let text = "";
+    let i = 0;
+    
+    function ghi() {
+        let textarea = document.getElementById("textarea");
+        textarea.value = "";
+        textarea.value = text;
+        text += fakingText[i]; i++;
+        if (i > fakingText.length) {
+            text = ""; i = 0;
+        }
+    }
+    
+</script>
+</html>
