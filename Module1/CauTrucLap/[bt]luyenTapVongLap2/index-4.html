@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In hình chữ nhật</title>
+</head>
+<body>
+    <script>
+        let chieuRong = +prompt("Nhap chieu rong hinh chu nhat");
+        let chieuDai = 5/2*chieuRong;
+        for (let i = 0; i <= chieuRong; i++) {
+            document.write(" <br>");
+            if (i == 0 || i == chieuRong) {
+            for (let j = 0; j < chieuDai; j++) {
+                document.write("i ");
+            }
+        }else{
+            document.write("i ");
+            for (let j = 1; j <(chieuDai -1) ; j++) {
+                document.write("&nbsp ");
+            }
+            document.write("i ");
+        }    
+            
+        }
+       
+    </script>
+</body>
+</html>

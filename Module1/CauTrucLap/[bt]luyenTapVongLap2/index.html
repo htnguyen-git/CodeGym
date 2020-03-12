@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dãy fibonacci</title>
+</head>
+<body>
+    <script>
+        let a = 0;
+        let b = 1;
+        let kq = "";
+        while(true){
+            if (b+a >100) {
+                document.write(" <----  Dãy fibonacci nhỏ hơn 100");
+                break;
+            }
+            document.write(a+b + " ");
+            b = b+a;
+            a = b-a;
+           
+        }
+    </script>
+</body>
+</html>

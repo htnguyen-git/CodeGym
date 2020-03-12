@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loop</title>
+</head>
+<body>
+    <script>
+    let chieuCao = +prompt("Nhap chieu cao hinh tam giac");
+    let tamGiac1 = tamGiac2 = tamGiac3 = tamGiac4 = ""; 
+    for (let i = 0; i < chieuCao; i++) {
+        tamGiac1+= "<br>";
+        for (let j = 0; j <= i; j++) {
+            tamGiac1 += "* ";  
+        }   
+     }
+    document.write(tamGiac1);
+    document.write("<br>");
+     
+    for (let i = 0; i < chieuCao; i++) {
+        tamGiac2+= "<br>";
+        for (let j = 0; j <=chieuCao-i-1; j++) {
+            tamGiac2 += "* "; 
+        }
+     }
+    document.write(tamGiac2);
+    document.write("<br>");
+
+    for (let i = 0; i < chieuCao; i++) {
+        tamGiac3 +="<br>";
+        for (let j = 0; j < chieuCao - i; j++) {
+            tamGiac3 += "&nbsp ";  
+        }
+        for (let k = 0; k <= i; k++) {
+            tamGiac3 +="i ";
+        }
+     }
+    document.write(tamGiac3);
+    document.write("<br>");
+    
+    for (let i = 0; i < chieuCao; i++) {
+        tamGiac4 +="<br>";
+        for (let k = 0; k <=i; k++) {
+            tamGiac4 += "&nbsp ";
+            
+        }
+        for (let j = 0; j < chieuCao - i; j++) {
+            tamGiac4 += "i ";
+        }
+
+     
+    }
+    document.write(tamGiac4) ;  
+    </script>
+</body>
+</html>
