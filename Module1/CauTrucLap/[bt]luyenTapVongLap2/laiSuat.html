@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tính lãi suất ngân hàng </title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Tiền gửi </td>
+            <td><input type="text" id="tienGui"></td>
+        </tr>
+        <tr>
+            <td>Lãi suất (%/tháng) </td>
+            <td><input type="text" id="laiSuat"></td>
+        </tr>
+        <tr>
+            <td>Số tháng cho vay </td>
+            <td><input type="text" id="soThangChoVay"></td>
+        </tr>
+        <tr>
+            <td>Tiền nhận được </td>
+            <td><button onclick="tinh()">Tinh</button></td>
+            <td id="tienNhanDuoc"></td>
+        </tr>
+    </table>
+    <script>
+        function tinh(){
+            let tienGui = parseFloat(document.getElementById("tienGui").value);
+            let laiSuat = parseFloat(document.getElementById("laiSuat").value);
+            let soThangChoVay = parseFloat(document.getElementById("soThangChoVay").value);
+            let tienNhanDuoc = tienGui;
+            for (let i = 0; i < soThangChoVay; i++) {
+                tienNhanDuoc *= (1 + laiSuat/100) ;
+            }
+            document.getElementById("tienNhanDuoc").innerHTML = tienNhanDuoc;
+        }
+
+    </script>
+</body>
+</html>
