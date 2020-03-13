@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thay - bằng _</title>
+</head>
+<body>
+    <script>
+        let chuoi = prompt("Nhập vào một chuỗi");
+        let arr= [];
+        for (let i = 0; i < chuoi.length; i++) {
+            arr.push(chuoi[i]);
+            if (chuoi[i] == '-') {
+                arr.pop();
+                arr.push('_')
+            }
+        }
+        document.write(arr.join(""));
+    </script>
+</body>
+</html>
