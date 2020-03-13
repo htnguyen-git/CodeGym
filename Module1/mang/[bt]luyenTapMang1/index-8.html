@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sắp xếp mảng</title>
+</head>
+<body>
+    <script>
+        let arr = new Array(10);
+        let ok = false;
+        alert("Nhập vào các phần tử cho mảng : " );
+        for (let i = 0; i < arr.length; i++) {
+            arr[i] = +prompt("Phần tử thứ " + i + "là : ");
+        }
+        arr.sort(function(a, b){return a - b});
+        alert("Hàm đã sort : " + arr);
+    </script>
+</body>
+</html>

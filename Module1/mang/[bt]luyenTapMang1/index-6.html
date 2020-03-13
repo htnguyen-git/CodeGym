@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tìm trong mảng</title>
+</head>
+<body>
+    <script>
+        let arr = new Array(10);
+        let ok = false;
+        alert("Nhập vào các phần tử cho mảng : " );
+        for (let i = 0; i < arr.length; i++) {
+            arr[i] = +prompt("Phần tử thứ " + i + "là : ");
+        }
+        let soNguyenV = +prompt("Nhập vào một số nguyên ");
+        for (let i = 0; i < arr.length; i++) {
+            if (soNguyenV==arr[i]) {  
+                ok = true;
+                break; 
+            }   
+        }
+        if (ok) alert(" Số nguyên " + soNguyenV + " có trong mảng"); 
+            
+        else alert(" Số nguyên " + soNguyenV + " không có trong mảng");
+        
+    </script>
+</body>
+</html>

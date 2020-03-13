@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đảo ngược mảng</title>
+</head>
+<body>
+    <script>
+        let arr = [];
+        let i = 0;
+        while (true) {
+            let soNguyen= prompt("Nhap vao mot so nguyen, nhap close de thoat ");
+            if (soNguyen == "close") {
+                break;
+            }
+            soNguyen = parseFloat(soNguyen);
+            if (!Number.isInteger(soNguyen)) {
+                alert("Nhap so nguyen : ");
+                continue;
+            }
+            arr[i]=soNguyen;
+            i++;
+        }
+        arr.reverse();
+        alert("Mảng sau khi đảo : " + arr);
+    </script>
+    
+</body>
+</html>

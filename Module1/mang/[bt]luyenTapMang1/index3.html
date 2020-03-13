@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trung bình mảng</title>
+</head>
+<body>
+    <script>
+        let intArray = [];
+        alert("Nhập các phần tử cho mảng, nhập close để thoát");
+        let i = 0;
+        while (true) {
+            let phanTu =prompt("Phần tử thứ " + i + " là : ");
+            if (phanTu == "close") {
+                break;
+            }
+            intArray[i]= parseInt(phanTu);
+            i++;
+        }
+        let max = null;
+        for (let i = 0; i < intArray.length; i++) {
+            max += intArray[i];
+        }
+        let trungBinhMang = max / intArray.length;
+        alert("Giá trị trung bình của mảng là" + trungBinhMang);
+    </script>
+</body>
+</html>

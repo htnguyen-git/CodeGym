@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Số lớn nhất trong mảng 10 số và vị trí của nó</title>
+</head>
+<body>
+
+    <script>
+        let IntArray = new Array(10);
+        alert("Nhập mảng số nguyên với 10 phần tử ");
+        let max = null;
+        for (let i = 0; i < IntArray.length; i++) {
+            IntArray[i] = +prompt("Nhập phần tử thứ " +i + " : ");
+            if (IntArray[i] > max) {
+                max = IntArray[i];
+            }
+        }
+        alert("Phần tử lớn nhất trong mảng là : " + max + " ở phần tử thứ : " + IntArray.indexOf(max));
+    </script>
+</body>
+</html>

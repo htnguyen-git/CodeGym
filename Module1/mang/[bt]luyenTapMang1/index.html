@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mang so nguyen</title>
+</head>
+<body>
+    <script>
+        let mangSoNguyen = new Array(10);
+        let bigInt = 0;
+        alert("Nhập mảng có 10 phần tử số nguyên");
+        for (let i = 0; i < mangSoNguyen.length; i++) {
+            mangSoNguyen[i] = +prompt("Nhập phần tử thứ " + i);
+            if (mangSoNguyen[i] >10) {
+                bigInt++;
+            }
+        }
+        alert(mangSoNguyen);
+        alert("Số lượng số nguyên lớn hơn 10 : " +bigInt);
+
+    </script>
+</body>
+</html>
