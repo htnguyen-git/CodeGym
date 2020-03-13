@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chuyyển đổi giữa feet và met</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Feet</td>
+            <td><input type="text" id="feet"></td>
+            <td><button onclick="convertToMet()">Convert to Met</button></td>
+        </tr>
+        <tr>
+            <td>Met</td>
+            <td><input type="text" id="met"></td>
+            <td><button onclick="convertToFeet()">Convert to Feet</button></td>
+        </tr>
+        
+    </table>
+    <script>
+        function feetToMet(feet){
+            return 0.305*feet;
+        }
+        function metToFeet(met) {
+            return 3.279*met;
+        }
+        function convertToMet() {
+            let i = document.getElementById("feet").value;
+            document.getElementById("met").value = metToFeet(document.getElementById("feet").value);
+        }
+        function convertToFeet() {
+            document.getElementById("feet").value = feetToMet(document.getElementById("met").value);
+        }
+    </script>
+</body>
+</html>
