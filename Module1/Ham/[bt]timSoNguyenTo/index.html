@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Các số nguyên tố nhỏ hơn 1000</title>
+</head>
+<body>
+    <script>
+        function laSoNguyenTo(number){
+            ok = true;
+          
+            for (let i = 2; i <= number/2; i++) {
+                if(number % i == 0){
+                    ok = false;
+                    break;
+                }              
+            }
+            return ok;
+        }
+        for (let i = 1; i < 1000; i++) {
+            if(laSoNguyenTo(i)){
+                document.write(i);
+                document.write(" ");
+            }
+        }
+    </script>
+</body>
+</html>
