@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2 tham số</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Nhập vào số a</td>
+            <td><input type="text" id="soA"></td>
+            
+        </tr>
+        <tr>
+            <td>Nhập vào số b</td>
+            <td><input type="text" id="soB"></td>
+        </tr>
+        <tr>
+            
+            <td><button onclick="soSanh()"> So sánh </button></td>
+        </tr>
+    </table>
+    <script>
+        function kq(a,b) {
+            if(a > b) return -1
+            else return (b-a)
+        }
+        function soSanh() {
+            let soA = parseFloat(document.getElementById("soA").value);
+            let soB = parseFloat(document.getElementById("soB").value);
+            let i = kq(soA,soB);
+            if(i==-1) alert(soA + " lớn hơn " + soB)
+            else alert(soB + " - " + soA + " = " +i )
+        }
+    </script>
+</body>
+</html>

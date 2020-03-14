@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tên chòm sao</title>
+</head>
+<body>
+    <script>
+        let sao = ["Polaris", "Alebaran", "Deneb", "Vega", "Altair", "Dudhe", "Regulus"]
+        let chomSao = ["Ursa mino", "Tarurs", "Cygnus", "Lyra", "Aquila ","Ursa Major", "Leo" ]
+        function viTriSaoTrongChomSao(inp) {
+            let a = sao.indexOf(inp);
+            if (a==-1) return alert("Không nằm trong chòm sao đã biết");
+            else return alert(inp + " thuộc chòm sao " + chomSao[a]);
+        }
+        let a = prompt("Nhập tên sao");
+        viTriSaoTrongChomSao(a);
+        
+        
+    </script>
+</body>
+</html>

@@ -17,7 +17,6 @@
             <td><input type="text" id="met"></td>
             <td><button onclick="convertToFeet()">Convert to Feet</button></td>
         </tr>
-        
     </table>
     <script>
         function feetToMet(feet){
@@ -28,10 +27,11 @@
         }
         function convertToMet() {
             let i = document.getElementById("feet").value;
-            document.getElementById("met").value = metToFeet(document.getElementById("feet").value);
+            document.getElementById("met").value = metToFeet(i);
         }
         function convertToFeet() {
-            document.getElementById("feet").value = feetToMet(document.getElementById("met").value);
+            let i = document.getElementById("met").value;
+            document.getElementById("feet").value = feetToMet(i);
         }
     </script>
 </body>
