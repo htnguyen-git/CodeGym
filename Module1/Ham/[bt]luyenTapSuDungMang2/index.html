@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tính bình phương</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Số cần tính bình phương</td>
+            <td><input type="text" id="dauVao"></td>
+        </tr>
+        <tr>
+            <td><button onclick="tinhBinhPhuong()" >Bình phương</button></td>
+        </tr>    
+    </table>
+    <script>
+        function tinhBinhPhuong() {
+            let inp = document.getElementById("dauVao");
+            let reOut = parseFloat(inp.value);
+            inp.value = binhPhuong(reOut);
+        }
+        function binhPhuong(dauVao){
+            return dauVao*dauVao;
+        }
+    </script>
+</body>
+</html>

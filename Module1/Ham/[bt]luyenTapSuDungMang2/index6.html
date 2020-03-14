@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiểm tra số nguyên dương</title>
+</head>
+<body>
+    <button onclick="alert( kiemTraSoNguyenDuong())">Kiểm tra số nguyên dương</button>
+    <script>
+        function kiemTraSoNguyenDuong() {
+            let inp = +prompt("Nhập vào cái j đó ");
+            ok = true;
+            if (!Number.isInteger(inp)) {
+                ok = false;
+            }
+            if (inp < 0) {
+                ok = false;
+            }
+            return ok;
+        }
+    </script>
+</body>
+</html>

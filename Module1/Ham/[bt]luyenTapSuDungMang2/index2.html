@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tính diện tích và chu vi</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Nhập bán kính hình tròn </td>
+            <td><input type="text" id="banKinh"></td>
+        </tr>
+        <tr>
+            <td><button onclick="tinhDienTich()">Tính diện tích</button></td>
+            <td id="outDienTich"></td>
+        </tr>
+        <tr>
+            <td><button onclick="tinhChuVi()">Tính chu vi</button></td>
+            <td id="outChuVi"></td>
+        </tr>
+    </table>
+    <script>
+        
+        function tinhDienTich() {
+            let bk = document.getElementById("banKinh");            
+            let dienTich = bk.value * bk.value *3.14;
+            document.getElementById("outDienTich").innerHTML = dienTich;
+        }
+        function tinhChuVi() {
+            let bk = document.getElementById("banKinh");
+            
+            let ChuVi = 2 * bk.value *3.14;
+            document.getElementById("outChuVi").innerHTML = ChuVi;
+        }
+    </script>
+</body>
+</html>

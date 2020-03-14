@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiểm tra một ký tự xuất hiện bao nhiêu lần trong 1 mảng </title>
+</head>
+<body>
+    <script>
+        function Dem1KyTuTrongMang(array,kyTu) {
+            count = 0;
+            for (let i = 0; i < array.length; i++) {
+                if (kyTu == array[i]) {
+                    count++;
+                }
+                
+            }
+            return count;
+        }
+        let arr = [1,2,3,4,5,6,7,6,5,4,3,2,1];
+        alert(Dem1KyTuTrongMang(arr,7));
+    </script>
+</body>
+</html>
