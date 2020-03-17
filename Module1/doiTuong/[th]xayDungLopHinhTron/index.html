@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xây dựng lớp hình tròn</title>
+</head>
+<body>
+    <script>
+        let Cirlce = function (radius) {
+            this.radius = radius;
+            this.getRadius =function(){
+                return radius;
+            }
+            this.getArea =function(){
+                return Math.PI* radius * radius;
+            }
+        }
+        function main(){
+            let circle1 = new Cirlce(2);
+            let radius1 = circle1.getRadius();
+            let area1 = circle1.getArea();
+            alert(" circle1, radius : " + radius1 + " area : " +area1);
+            let circle2 = new Cirlce(5);
+            let radius2 = circle2.getRadius();
+            let area2 = circle2.getArea();
+            alert("circle2, radius : " + radius2 + " area : " +area2);
+            let circle3 = new Cirlce(6);
+            let radius3 = circle3.getRadius();
+            let area3 = circle3.getArea();
+            alert("circle3, radius : " + radius3 + " area : " +area3);
+            let circle4 = new Cirlce(7);
+            let radius4 = circle4.getRadius();
+            let area4 = circle4.getArea();
+            alert("circle4,radius : " + radius4 + " area : " +area4);
+        }
+        main();
+    </script>
+</body>
+</html>
