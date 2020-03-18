@@ -1,0 +1,9 @@
+table{
+    border: 10px solid blue;
+}
+
+button{
+    width: 50px;
+    height: 30px;
+    margin: 10px 10px;
+}
