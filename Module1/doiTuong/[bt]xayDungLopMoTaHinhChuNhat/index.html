@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lớp mô tả hình chữ nhật</title>
+</head>
+<body>
+    <canvas id="myCanvas" width="1000" height="600" style="border: solid 1px blue;"></canvas>
+    <script>
+        function Rectangle(chieuDai,chieuRong) {
+            this.chieuDai = chieuDai;
+            this.chieuRong = chieuRong;
+            this.tinhDienTich = function () {
+                return this.chieuRong*this.chieuDai;
+            }
+            this.tinhChuVi = function () {
+                return (this.chieuDai + this.chieuRong)*2;
+            }
+            this.hienThi = function (id,x,y) {
+                var c = document.getElementById(id);
+                var ctx = c.getContext('2d');
+                ctx.beginPath();
+                ctx.rect(x,y,this.chieuRong,this.chieuDai);
+                ctx.stroke();
+            }
+            this.setChieuDai = function(cd){
+                this.chieuDai = cd;
+            }
+            this.setChieuRong = function(chieuRong){
+                this.chieuRong = chieuRong;
+            }
+            this.getChieuDai = function(){
+                return chieuDai;
+            }
+
+        }
+        function main() {
+            let hcn = new Rectangle(50,100);
+            hcn.hienThi("myCanvas",100,100);
+            console.log("chu vi la " +hcn.tinhChuVi())
+            console.log("dien tich la: " + hcn.tinhDienTich())
+            hcn.setChieuDai(200);
+            hcn.setChieuRong(200);
+            hcn.hienThi("myCanvas",300,100);
+            console.log("chu vi la " +hcn.tinhChuVi())
+            console.log("dien tich la: " + hcn.tinhDienTich())
+
+        }
+        main()
+    </script>
+</body>
+</html>
