@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tương tác giữa công tắc và bóng đèn</title>
+</head>
+<body>
+    <script>
+        function ElectricLamp(){
+            this.status = false;
+            
+            this.turnOn = function (){
+                this.status = true;
+                console.log("Lamp is lightning");
+            }
+            this.turnOff = function (){
+                this.status = false;
+                console.log("Lamp is off");
+            }
+        }
+        function SwitchButton(){
+            this.status = false;
+            this.connectToLamp = function(lamp){
+                this.lamp = lamp;
+                console.log("Lamp is connected");
+            }
+            this.switchOn = function (){
+                this.lamp.turnOn();
+            }
+            this.switchOff = function (){
+                this.lamp.turnOff();
+            }
+        }
+        function main(){
+            let lamp1 = new ElectricLamp();
+            let switch1 = new SwitchButton();
+            console.log("Ket noi voi den!");
+            switch1.connectToLamp(lamp1);
+            console.log("Bat den!");
+            switch1.switchOn();
+            console.log("Tat den!");
+            switch1.switchOff();
+        }
+        main();
+        
+    </script>
+</body>
+</html>
