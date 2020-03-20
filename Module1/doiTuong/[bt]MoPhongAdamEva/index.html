@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mô phỏng câu chuyện của Adam và Eva</title>
+</head>
+<body>
+    <script>
+        function Apple() {
+            this.weight = 10;
+            this.decrease = function () {
+               if (this.isEmpty()) {
+                   alert("No more to eat");
+               }else{
+                   this.weight--;
+               }
+            }
+            this.isEmpty = function () {
+                if (this.weight == 0) return true;
+                else return false;
+            }
+            this.getWeight = function () {
+                return this.weight;
+            }
+        }
+        function Human(name, gender, weight){
+            this.name = name;
+            this.gender = gender;
+            this.weight = weight;
+            this.say = function () {
+                console.log("I am " + this.name + 
+                            ", a " + this.gender + 
+                            ", and I have " +this.weight + " weight");
+            }
+            this.setGender = function (gender){
+                this.gender = gender;
+            }
+
+            this.isMale = function (){
+                if (this.gender == "male") return true;
+                else return false;
+            }
+            this.setName = function(name){
+                this.name = name;
+            }
+            this.getName = function(){
+                return this.name;
+            }
+            this.setWeight = function(weight){
+                this.weight = weight;
+            }
+            this.getWeight = function(){
+                return this.weight;
+            }
+            this.checkApple = function(Apple){
+                return Apple.getWeight();
+            }
+            this.eat = function (apple){
+                if (apple.isEmpty()) {
+                    
+                }else{
+                    apple.decrease();
+                    this.weight++;    
+                }
+                
+            }
+
+        }
+        function main() {
+            let apple = new Apple();
+            let Eva = new Human("Eva","female", 45);
+            let Adam = new Human("Adam", "male", 60 );
+            Adam.say(); Eva.say();
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Adam eats the apple");
+            Adam.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Adam' weight :" + Adam.weight);
+            console.log("Eva eats the apple");
+            Eva.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Eva' weight :" + Eva.weight);
+            console.log("Adam eats the apple");
+            Adam.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Adam' weight :" + Adam.weight);
+            console.log("Eva eats the apple");
+            Eva.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Eva' weight :" + Eva.weight);
+            console.log("Adam eats the apple");
+            Adam.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Adam' weight :" + Adam.weight);
+            console.log("Eva eats the apple");
+            Eva.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Eva' weight :" + Eva.weight);
+            console.log("Adam eats the apple");
+            Adam.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Adam' weight :" + Adam.weight);
+            console.log("Eva eats the apple");
+            Eva.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Eva' weight :" + Eva.weight);
+            console.log("Adam eats the apple");
+            Adam.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Adam' weight :" + Adam.weight);
+            console.log("Eva eats the apple");
+            Eva.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Eva' weight :" + Eva.weight);
+            console.log("Adam eats the apple");
+            Adam.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Adam' weight :" + Adam.weight);
+            console.log("Eva eats the apple");
+            Eva.eat(apple);
+            console.log("apple'weight : " +apple.getWeight());
+            console.log("Eva' weight :" + Eva.weight);
+           
+        
+        }
+        main();
+    </script>
+</body>
+</html>
