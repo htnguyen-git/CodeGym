@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thực hành tạo bàn cờ caro đơn giản </title>
+</head>
+<body>
+    <h1>Cờ caro simple</h1>
+    <p id="caroGame"></p>
+    <button id="changeValue">Change value</button>
+
+
+    <script>
+        function taoBanCo(row, col){
+            let board = [];
+            for (let i = 0; i < row; i++) {
+                board[i] = [];
+                for (let j = 0; j < col; j++) {
+                    board[i][j] = "0";                  
+                }              
+            }
+            return board;
+        }
+        
+        function inBanCo(banCo) {
+            let data = "";
+            for (let i = 0; i < banCo.length; i++) {
+                data += banCo[i].join(" ") + "<br>";  
+            }
+            return data;
+        }
+
+        function main() {
+            //Tao ban co
+            let b = document.getElementById("caroGame");
+            let banCo = taoBanCo(5,5);
+            b.innerHTML = inBanCo(banCo);
+
+            //Gán sự kiện cho nút
+            let changeValue= document.getElementById("changeValue");
+            
+            changeValue.onclick = function(){
+                let X = null;
+                let Y = null;
+                while(true){
+                    X = +prompt("X : ");
+                    Y = +prompt("Y : ");
+                    if (X < banCo.length && Y < banCo[X].length) {
+                        break;
+                    }
+                }
+                banCo[X][Y] = "x";
+                b.innerHTML = inBanCo(banCo);
+            }
+          
+        }
+        main();
+    </script>
+</body>
+</html>
