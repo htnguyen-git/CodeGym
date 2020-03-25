@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thực hành kiểm tra ký tự đầu tiên có phải chữ viết hoa </title>
+</head>
+<body>
+    <script>
+        function isFirstLetterUpperCase(str) {
+            regexp = /^[A-Z]/; 
+            if (regexp.test(str)) {
+                console.log("String co chu bat dau la hoa");
+            }else console.log("String co chu bat dau khong phai la hoa");
+        }
+        
+        isFirstLetterUpperCase("Huynh Thao Nguyen");
+        isFirstLetterUpperCase("HUYNH THAO NGUYEN");
+        isFirstLetterUpperCase("huynh thao Nguyen");
+    </script>
+</body>
+</html>
