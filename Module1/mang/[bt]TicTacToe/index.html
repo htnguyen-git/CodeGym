@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bai tap tic tac toe </title>
+</head>
+<body>
+    <h1>Cờ tic tac toe</h1>
+    <p id="tictactoeGame"></p>
+    <button id="set">Set </button>
+    <button id="reset">Reset</button>
+
+
+    <script>
+        const PLAYER1_MARK = "X";
+        const PLAYER2_MARK = "O";
+        const DEFAULT_COL = 5;
+        const DEFAULT_ROW = 5;
+        const DEFAUL_THEME = ".";
+        const DISTANCE_IN_ROW = "&nbsp &nbsp &nbsp &nbsp";
+        const DISTACE_IN_COL = "<br><br>";
+        const COUNT = 3;
+
+        class GameBoard{
+            constructor(col,row,elementId){
+                this.col = col;
+                this.row = row;
+                this.elementId = elementId;
+                this.arrBanCo = [];
+                this.overGame = false;
+            }
+            thietLapBanCo(){
+                
+                for (let i = 0; i < this.row; i++) {
+                    this.arrBanCo[i] = [];
+                    for (let j = 0; j < this.col; j++) {
+                        this.arrBanCo[i][j] = DEFAUL_THEME;
+                    }
+                }
+            }
+            inBanCo(){
+                let gameBoardDiv = document.getElementById(this.elementId);
+                gameBoardDiv.innerHTML="";
+                for (let i = 0; i < this.arrBanCo.length; i++) {
+                    for (let j = 0; j < this.arrBanCo.length; j++) {
+                        gameBoardDiv.innerHTML += this.arrBanCo[i][j] + DISTANCE_IN_ROW;
+                    }
+                    gameBoardDiv.innerHTML += DISTACE_IN_COL;
+                }
+            }
+            setViTri(row,col,playerMark){
+                if (!this.overGame) {
+                    this.arrBanCo[row][col] = playerMark;    
+                    this.checkWinner(row,col,playerMark);
+                }
+            }
+            checkWinner(row,col,playerMark){
+                let viTri = this.arrBanCo[row][col];
+                //Kiem tra hang ngang
+                let i =1;
+                let count = 1;
+                while((col + i < this.col) && (this.arrBanCo[row][col+i])==playerMark){
+                    i++; count++;
+                }
+                while((col - i >= 0) && (this.arrBanCo[row][col - i])==playerMark){
+                    i++; count++;
+                }
+                this.endGame(count);
+
+                //Kiem tra hang doc
+                i = 1 ; count = 1;              
+                while((row + i < this.row) && (this.arrBanCo[row + i][col])==playerMark){
+                    i++; count++;
+                }
+                while((row - i >= 0) && (this.arrBanCo[row - i][col])==playerMark){
+                    i++; count++;
+                }
+                this.endGame(count);
+
+                //Kiểm tra chéo trái
+                i = 1 ; count = 1;
+                while ((row + i < this.row) && (col + i < this.col) && (this.arrBanCo[row + i][col + i]==playerMark)) {
+                    i++; count++;
+                }
+                while ((row - i >= 0) && (col - i >= 0) && (this.arrBanCo[row - i][col - i]==playerMark)) {
+                    i++; count++;
+                }
+                this.endGame(count);
+
+                //Kiểm tra chéo phải
+                i = 1 ; count = 1;
+                let j = 1;
+                while ((row - i >= 0) && (col + i < this.col) && (this.arrBanCo[row - i][col + i]==playerMark)) {
+                    i++; count++;
+                }
+                while ((row + i < this.row) && (col - i >= 0) && (this.arrBanCo[row + i][col - i]==playerMark)) {
+                    i++; count++;
+                }
+                this.endGame(count);
+
+            }
+            endGame(count){
+                if (count>=COUNT) {
+                    alert("Win!");
+                    this.overGame = true;
+                }
+            }
+        }
+
+        class Player{
+            constructor(mark){
+                this.mark = mark;
+                let row;
+                let col;
+            }
+            danhCo(){
+                while(true){
+                    this.row = +prompt("Nhap vi tri cot cho player " + this.mark);
+                    this.col = +prompt("Nhap vi tri hang cho player " + this.mark);
+                    if (this.row < DEFAULT_ROW && this.col < DEFAULT_COL) {
+                        break;
+                    }
+                }
+                return [this.row, this.col, this.mark];
+            }
+        }
+        let turn =1;
+        function set() {
+
+            if (turn >2 ) turn =1;
+            switch (turn) {
+                case 1:
+                    let p1 = player1.danhCo();
+                    if (game.arrBanCo[p1[0]][p1[1]]!==(PLAYER2_MARK||PLAYER1_MARK)) {
+                        game.setViTri(p1[0],p1[1],p1[2]);
+                        turn++;
+                        break;
+                    }
+                    
+                case 2:
+                let p2 = player2.danhCo();
+                    if (game.arrBanCo[p2[0]][p2[1]]!==(PLAYER1_MARK||PLAYER1_MARK)){
+                    game.setViTri(p2[0],p2[1],p2[2]);
+                    turn++;
+                    break;
+                    }
+            }
+        }
+        
+
+        function main(){
+            game.thietLapBanCo();
+            game.inBanCo();
+            let buttonLuanPhien = document.getElementById("set");
+            buttonLuanPhien.onclick = function(){
+                set();
+                game.inBanCo();
+            };
+            
+        }
+        let game = new GameBoard(DEFAULT_COL,DEFAULT_ROW,"tictactoeGame");
+        let player1 = new Player(PLAYER1_MARK);
+        let player2 = new Player(PLAYER2_MARK);
+
+        main();
+
+    </script>
+</body>
+</html>
