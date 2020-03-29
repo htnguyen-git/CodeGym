@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validate Account</title>
+</head>
+<body>
+    <input id="text" type="text" placeholder="Account">
+    <button id="check">Check</button>
+</body>
+<script>
+    
+    let account = document.getElementById("check");
+    account.onclick = function(){
+        pattern = /^[_a-z0-9]{6,}$/;
+        
+        let str = document.getElementById("text").value;
+        if(pattern.test(str)){
+            document.write("Hop le");
+        }else document.write("Khong hop le");
+    }
+</script>
+</html>
