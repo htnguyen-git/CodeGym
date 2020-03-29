@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bai tap ung dung san phan su dung Mang</title>
+    <link rel="stylesheet" href="layout.css">
+</head>
+<body>
+    <h3>Add new product </h3>
+    <table>
+        <input type="text" id="tenSanPham" placeholder="New product">
+        <button id="add">add</button>   
+    
+    <h3>Display All Product</h3>
+    <table>
+        <thead>
+            <th>Số thứ tự</th>
+            <th>Tên sản phẩm </th>
+            <th>Nút sửa và xóa sản phẩm </th>
+        </thead>
+        <tbody id=showProduct>
+          <button></button>
+        </tbody>
+
+    </table>
+    <script>
+        class Table{
+            constructor(elementId){
+                this.elementId = elementId;
+            }
+            product = [];
+            addProduct(product){
+                this.product.unshift(product);
+                table.show();
+            }  
+            veSoThuTu(i){
+                return "<td>" + i + "</td>";
+            } 
+            veTenSanPham(i){
+                return "<td>" + this.product[i] + "</td>";
+            }
+            veNutSua(i){
+                let buttonSua = "<button id='edit-" + i + "' onclick='edit(" + i + ")'>Sua</button>";
+                return buttonSua;
+            }
+            veNutXoa(i){
+                let buttonXoa = "<button id='xoa-" + i + "' onclick='xoa(" + i + ")'>Xóa</button>";
+                return buttonXoa;
+            }
+            show(){
+                let tableDiv = document.getElementById(this.elementId);
+                tableDiv.innerHTML = "";
+                for (let i = 0; i < this.product.length; i++) {
+                    tableDiv.innerHTML += this.veSoThuTu(i) + this.veTenSanPham(i) + 
+                                            "<td>" + this.veNutSua(i) + this.veNutXoa(i) + "</td>";
+
+                    
+                }
+
+            }
+            edit(i){/* 
+                let id = document.getElementById("xoa-" + i); */
+                this.product[i] = prompt("Nhập tên mới cho sản phẩm"); 
+                this.show();
+            }
+            xoa(i){
+                for (let j = i; j < this.product.length-1; j++) {
+                    this.product[j]=this.product[j+1];
+                }
+                this.product.pop();
+                this.show();
+            }
+        }
+        function edit(i) {
+            table.edit(i);
+        }
+        function xoa(i) {
+            table.xoa(i);
+        }
+        
+        
+        function main() {
+            let buttonAdd = document.getElementById("add");
+            buttonAdd.onclick = function () {
+                table.addProduct( document.getElementById("tenSanPham").value);
+                document.getElementById("tenSanPham").value = "";
+            }
+            
+            table.show();
+        }
+        let table = new Table("showProduct");
+        main();
+    </script>
+</body>
+</html>
