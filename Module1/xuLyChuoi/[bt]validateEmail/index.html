@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validate Email</title>
+</head>
+<body>
+    <input id="text" type="text" placeholder="Email">
+    <button id="check">Check</button>
+</body>
+<script>
+    
+    let id = document.getElementById("check");
+    id.onclick = function(){
+        pattern = /^[A-Za-z0-9]+[A-Za-z0-9]*@[A-Za-z0-9]+(\.[A-Za-z0-9]+)$/;
+        
+        let str = document.getElementById("text").value;
+        if(pattern.test(str)){
+            document.write("Hop le");
+        }else document.write("Khong hop le");
+    }
+</script>
+</html>
