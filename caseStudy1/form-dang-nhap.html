@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+</head>
+
+<body>
+  <div class="d-flex vh-100">
+    <div class="d-flex w-100 justify-content-center align-self-center">
+      <div class="card">
+        <div class="card-header text-center">Login</div>
+        <div class="card-body">
+          User Name :<input type="text" id="uname" placeholder="Username" class="form-control">
+          <br>
+          PassWord : <input type="password" id="pwd" placeholder="Password" class="form-control" >
+        </div>
+        <div class="card-footer"><a id="check" class="btn btn-primary form-control">Go! </a></div>
+      </div>
+    </div>
+  </div>
+</body>
+<script src="node_modules/jquery/dist/jquery.min.js"></script>
+<script>
+  const URL_TO_GET_USER_INFO = "http://localhost:3000/user";
+  let data = {} || data;
+  data.user = [];
+  $(document).ready(function () {
+    data.init()
+  });
+  data.init = function(){
+    data.getUserInfo();
+  }
+  data.getUserInfo = function(){
+    $.ajax({
+      type: "GET",
+      url: URL_TO_GET_USER_INFO,
+      dataType: "json",
+      success: function (response) {
+        $.each(response, function (i, v) { 
+           data.user.push([v.username,v.pwd])
+        });
+      }
+    });
+  }
+  $("#check").click(function () { 
+      let pcTry = [];
+      pcTry.push($("#uname").val());
+      pcTry.push($("#pwd").val())
+      
+      $.each(data.user, function (i, v) { 
+        if (pcTry[0] == v[0] && pcTry[1] == v[1]) {
+          $(location).attr('href',"../quan-ly.html")
+        }
+      });
+    
+  });
+
+</script>
+</html>

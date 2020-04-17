@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Sổ ghi chép</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <link href="css/blog-home.css" rel="stylesheet">
+
+</head>
+
+<body>
+<header></header>
+  <!-- Page Content -->
+  <div class="container">
+
+    <div class="row">
+
+      <!-- Blog Entries Column -->
+      <div class="col-md-8">
+
+        <h1 class="my-4">Sổ ghi chép
+          <small></small>
+        </h1>
+
+        <!-- Blog Post -->
+        <myPost class="card mb-4"></myPost>
+        
+        <!-- Pagination -->
+        <pagination></pagination>
+        
+
+      </div>
+
+      <!-- Sidebar Widgets Column -->
+      <sidebar class="col-md-4"></sideBar>
+    </div>
+    <!-- /.row -->
+
+  </div>
+  <!-- /.container -->
+  
+  <!-- Footer -->
+  <footer></footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="node_modules/jquery/dist/jquery.min.js"></script>
+  <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script>
+    $("header").load("../commonFile/nav.html");
+    $("pagination").load("../commonFile/pagination.html");
+    $("sidebar").load("../commonFile/sidebar.html");
+    $("footer").load("../commonFile/footer.html")
+  </script>
+  <script>
+    const URL_TO_GET_DATA = "http://localhost:3000/topic";
+    const SO_LUONG_LINK_XEM_NHIEU = 3;
+    const SO_LUONG_LINK_TOM_TAT = 10;
+
+    let noiDung = {} || noiDung;
+    noiDung.init = function () {
+      noiDung.getData();
+    };
+    noiDung.getData = function () {
+      $.ajax({
+        type: "GET",
+        url: URL_TO_GET_DATA,
+        dataType: "json",
+        success: function (response) {
+          noiDung.data = response;
+          /* Sau khi có được data, bắt đầu viết nội dung */
+          noiDung.drawNoiDungTomTat(noiDung.data);
+          noiDung.drawLinkXemNhieu(noiDung.data);
+        }
+      });
+    }
+  
+    noiDung.drawNoiDungTomTat = function (data) {
+      $.each(data.reverse(), function (i, v) {
+        if (i > SO_LUONG_LINK_TOM_TAT) return false;
+        $("myPost").append(
+          '<form action="fullNoiDung.html">' +
+          '<div class="card-body">' +
+            '<h2 class="card-title">'+v.name+'</h2>' +
+            '<p class="card-text">'+v.summary+'</p>' +
+            '<a href="fullNoiDung.html?id='+v.id+'" class="btn btn-primary">Đọc toàn bộ</a>' +
+          '</div>' +
+          '<div class="card-footer text-muted">'  +
+            'Được đăng lúc '+v.date+' by ' +
+            '<a href="#">Người viết</a>' +
+          '</div>'+
+        '</form>'
+        );
+      });
+    };
+    noiDung.drawLinkXemNhieu = function (data) {
+      /* Chạy qua một vòng của mảng, lấy ra chỉ số id và vote.
+      sort theo lượt vote.
+      Vẽ ra số lượng cần hiển thị  */
+      let voteID = [];
+      $.each(data, function (i, v) {
+        voteID.push([v.vote, v.name,v.id])
+      });
+      voteID =  voteID.sort(function(a,b){return b[0]-a[0]});
+      for (let i = 0; i < SO_LUONG_LINK_XEM_NHIEU; i++) {
+        $("#noiDungHay").append(
+          '<a href="fullNoiDung.html?id='+voteID[i][2]+'">'+voteID[i][1]+'</a>'+
+          '<br>'
+        );
+       /*  $("#luotVote").append(
+          '<small>Vote:'+voteID[i][0]+'</small>'+
+          '<br>'
+        ); */
+      }
+    };
+  
+    /* Chạy */
+    $(document).ready(function () {
+      noiDung.init();
+    });
+  </script>
+</body>
+
+</html>

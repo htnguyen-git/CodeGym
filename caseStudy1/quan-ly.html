@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thông tin</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+</head>
+<header></header>
+<body>
+  
+    <nav></nav>
+    <div class="row m-sm-3">
+        <div class="col-sm-8">
+            <myPost style="margin-top: 10vh; position: absolute;"></myPost>
+        </div>
+        <div  class="col-sm-4">
+            <tool style="margin-top: 10vh; position: absolute;"></tool>
+        </div>
+    </div>
+    
+    <pagination></pagination>
+    
+</body>
+<script>
+    /* $("header").load("../commonFile/about-me.html"); */
+    $("nav").load("../commonFile/nav.html");
+    $("pagination").load("../commonFile/pagination.html");
+    $("tool").load("../commonFile/tool.html");
+    $("footer").load("../commonFile/footer.html")
+</script>
+<script>
+    const URL_TO_GET_DATA = "http://localhost:3000/topic";
+    const SO_LUONG_LINK_XEM_NHIEU = 2;
+    const SO_LUONG_LINK_TOM_TAT = 2;
+    let noiDung = {} || noiDung;
+  
+    noiDung.init = function () {
+      noiDung.getData();
+    };
+    noiDung.getData = function () {
+      $.ajax({
+        type: "GET",
+        url: URL_TO_GET_DATA,
+        dataType: "json",
+        success: function (response) {
+          noiDung.data = response;
+          /* Sau khi có được data, bắt đầu viết nội dung */
+          noiDung.drawNoiDungTomTat(noiDung.data);
+          
+        }
+      });
+    }
+  
+    noiDung.drawNoiDungTomTat = function (data) {
+      $.each(data.reverse(), function (i, v) {
+        if (i > SO_LUONG_LINK_TOM_TAT) return false;
+        $("myPost").append(
+          '<img class="card-img-top" src="http://placehold.it/750x300" alt="Card image cap">' +
+          '<div class="card-body">' +
+            '<h2 class="card-title">'+v.name+'</h2>' +
+            '<p class="card-text">'+v.summary+'</p>' +
+            /* '<a href="#" class="btn btn-warning m-1">Sửa;</a>' +
+            '<a href="#" class="btn btn-danger m-1">Xóa;</a>' + */
+          '</div>' +
+          '<div class="card-footer text-muted">'  +
+            'Được đăng lúc '+v.date+' by ' +
+            '<a href="#">Người viết</a>' +
+          '</div>'
+        );
+      });
+    };
+    $(document).ready(function () {
+        noiDung.init()
+    });
+
+
+    /* Sự kiện khi click  */
+
+
+
+</script>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nội dung</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+    <nav></nav>
+    <!-- Hiển thị nội dung -->
+    <div style="margin-top:10vh;">
+        <h1 class="text-center" id="name">Name</h1>
+        <div id="noiDung"></div>
+    </div>
+
+    <!-- Một div để nhận like hoặc không -->
+
+    <div class="row">
+        <div class="col-4"></div>
+        <div class="col-4">
+            <div class="card">
+                <h3 id="vote" class="card-header text-center shadow">Vote</h3>
+                <div class="row card-body">
+                    <div id="like" class="col-6 text-center"><img src="SVGfile/thumbs-up-solid.svg" width="50"
+                            height="50" alt=""></a></div>
+                    <div id="unlike" class="col-6 text-center"><img src="SVGfile/thumbs-down-solid.svg" width="50"
+                            height="50" alt=""></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-4"></div>
+    </div>
+
+</body>
+<script>
+    $("nav").load("commonFile/nav.html")
+</script>
+
+<script>
+    const URL_TO_GET_DATA = "http://localhost:3000/topic";
+    /* Nhận id từ trang gọi tới */
+    const ID = location.search.substring(4)
+    let vote = 0;
+    let noiDung = {} || noiDung;
+    $(document).ready(function () {
+        noiDung.init();
+
+    });
+    noiDung.init = function () {
+        noiDung.getData(URL_TO_GET_DATA, ID);
+
+    }
+    noiDung.getData = function (urlToGetData, id) {
+        $.ajax({
+            type: "GET",
+            url: urlToGetData + "/" + id,
+            dataType: "json",
+            success: function (response) {
+                noiDung.drawData(response)
+            }
+        });
+    }
+    noiDung.drawData = function (jsonData) {
+        $("#name").text(jsonData.name);
+        for (let i = 0; i < jsonData["cues[]"].length; i++) {
+            let note = jsonData["notes[]"][i].split("\n")
+            let str = ""
+            for (let j = 0; j < note.length; j++) {
+                str += '<p>' + note[j] + '</p>'
+            }
+            $("#noiDung").append(
+                '<div class="card m-sm-2 shadow">' +
+                '<div class="card-header">' + jsonData["cues[]"][i] + '</div>' +
+                '<div class="card-body">' + str + '</div>' +
+                '</div>'
+            )
+        }
+    }
+
+
+
+
+</script>
+
+
+</html>
