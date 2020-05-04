@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "[th]KiemTraSoNguyenTo/1.0.0": {
+        "runtime": {
+          "[th]KiemTraSoNguyenTo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "[th]KiemTraSoNguyenTo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

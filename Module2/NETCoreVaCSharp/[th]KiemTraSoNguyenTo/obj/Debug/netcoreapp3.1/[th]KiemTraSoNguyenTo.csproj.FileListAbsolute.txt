@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\[th]KiemTraSoNguyenTo.genruntimeconfig.cache
