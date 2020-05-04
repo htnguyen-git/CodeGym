@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\bin\Debug\netcoreapp3.1\[th]SuDungToanTu.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\bin\Debug\netcoreapp3.1\[th]SuDungToanTu.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\bin\Debug\netcoreapp3.1\[th]SuDungToanTu.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\bin\Debug\netcoreapp3.1\[th]SuDungToanTu.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\bin\Debug\netcoreapp3.1\[th]SuDungToanTu.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\bin\Debug\netcoreapp3.1\[th]SuDungToanTu.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\obj\Debug\netcoreapp3.1\[th]SuDungToanTu.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\obj\Debug\netcoreapp3.1\[th]SuDungToanTu.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\obj\Debug\netcoreapp3.1\[th]SuDungToanTu.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\obj\Debug\netcoreapp3.1\[th]SuDungToanTu.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\obj\Debug\netcoreapp3.1\[th]SuDungToanTu.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\obj\Debug\netcoreapp3.1\[th]SuDungToanTu.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]SuDungToanTu\obj\Debug\netcoreapp3.1\[th]SuDungToanTu.genruntimeconfig.cache

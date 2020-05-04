@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace _th_SuDungToanTu
+{
+    class Program
+    {
+           
+        static void Main(string[] args)
+        {
+            float width;
+            float height;
+            Console.WriteLine("Enter width :");
+            width = float.Parse(Console.ReadLine());
+            Console.WriteLine("Enter height :");
+            height = float.Parse(Console.ReadLine());
+            float area = width * height;
+            Console.WriteLine($"Area of rectangle is : {area}");
+
+        }
+    }
+}
