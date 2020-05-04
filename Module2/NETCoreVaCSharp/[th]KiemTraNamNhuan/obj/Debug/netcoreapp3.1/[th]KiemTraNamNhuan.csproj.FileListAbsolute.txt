@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\bin\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\bin\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\bin\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\bin\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\bin\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\bin\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\obj\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\obj\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\obj\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\obj\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\obj\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\obj\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KiemTraNamNhuan\obj\Debug\netcoreapp3.1\[th]KiemTraNamNhuan.genruntimeconfig.cache
