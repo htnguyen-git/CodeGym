@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "[th]TimGiaTriLonNhatTrongMang/1.0.0": {
+      "[th]TimGiaTriNhoNhatSuDungPhuongThuc/1.0.0": {
         "runtime": {
-          "[th]TimGiaTriLonNhatTrongMang.dll": {}
+          "[th]TimGiaTriNhoNhatSuDungPhuongThuc.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "[th]TimGiaTriLonNhatTrongMang/1.0.0": {
+    "[th]TimGiaTriNhoNhatSuDungPhuongThuc/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

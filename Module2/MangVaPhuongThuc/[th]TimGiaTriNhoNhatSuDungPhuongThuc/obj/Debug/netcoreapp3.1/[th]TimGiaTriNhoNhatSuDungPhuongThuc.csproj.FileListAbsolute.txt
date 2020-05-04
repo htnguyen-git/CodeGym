@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\bin\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\bin\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\bin\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\bin\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\bin\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\bin\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\obj\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\obj\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\obj\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\obj\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\obj\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc\obj\Debug\netcoreapp3.1\[th]TimGiaTriNhoNhatSuDungPhuongThuc.genruntimeconfig.cache
