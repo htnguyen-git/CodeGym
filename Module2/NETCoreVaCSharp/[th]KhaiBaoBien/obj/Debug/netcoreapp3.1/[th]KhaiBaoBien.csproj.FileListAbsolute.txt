@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\bin\Debug\netcoreapp3.1\[th]KhaiBaoBien.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\bin\Debug\netcoreapp3.1\[th]KhaiBaoBien.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\bin\Debug\netcoreapp3.1\[th]KhaiBaoBien.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\bin\Debug\netcoreapp3.1\[th]KhaiBaoBien.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\bin\Debug\netcoreapp3.1\[th]KhaiBaoBien.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\bin\Debug\netcoreapp3.1\[th]KhaiBaoBien.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\obj\Debug\netcoreapp3.1\[th]KhaiBaoBien.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\obj\Debug\netcoreapp3.1\[th]KhaiBaoBien.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\obj\Debug\netcoreapp3.1\[th]KhaiBaoBien.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\obj\Debug\netcoreapp3.1\[th]KhaiBaoBien.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\obj\Debug\netcoreapp3.1\[th]KhaiBaoBien.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]KhaiBaoBien\obj\Debug\netcoreapp3.1\[th]KhaiBaoBien.genruntimeconfig.cache
