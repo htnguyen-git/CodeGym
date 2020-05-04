@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]ChuongTrinhChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\[th]ChuongTrinhChuyenDoiNhietDo.genruntimeconfig.cache
