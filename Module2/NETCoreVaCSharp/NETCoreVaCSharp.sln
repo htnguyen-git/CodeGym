@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[th]KiemTraNamNhuan", "[th]
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[th]TinhSoNgayTrongThang", "[th]TinhSoNgayTrongThang\[th]TinhSoNgayTrongThang.csproj", "{98871171-CC8C-46B9-BF0A-9351D05A8542}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[th]GiaiPhuongTrinhBacNhat", "[th]GiaiPhuongTrinhBacNhat\[th]GiaiPhuongTrinhBacNhat.csproj", "{CFDDA2AB-9B92-4EC8-BBC6-8A6763A1994A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{98871171-CC8C-46B9-BF0A-9351D05A8542}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98871171-CC8C-46B9-BF0A-9351D05A8542}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98871171-CC8C-46B9-BF0A-9351D05A8542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDDA2AB-9B92-4EC8-BBC6-8A6763A1994A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDDA2AB-9B92-4EC8-BBC6-8A6763A1994A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDDA2AB-9B92-4EC8-BBC6-8A6763A1994A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDDA2AB-9B92-4EC8-BBC6-8A6763A1994A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

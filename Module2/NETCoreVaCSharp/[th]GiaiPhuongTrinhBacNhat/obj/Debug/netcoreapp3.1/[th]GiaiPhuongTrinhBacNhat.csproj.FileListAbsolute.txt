@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]GiaiPhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\[th]GiaiPhuongTrinhBacNhat.genruntimeconfig.cache
