@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\bin\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\bin\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\bin\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\bin\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\bin\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\bin\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\obj\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\obj\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\obj\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\obj\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\obj\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\obj\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]TinhSoNgayTrongThang\obj\Debug\netcoreapp3.1\[th]TinhSoNgayTrongThang.genruntimeconfig.cache
