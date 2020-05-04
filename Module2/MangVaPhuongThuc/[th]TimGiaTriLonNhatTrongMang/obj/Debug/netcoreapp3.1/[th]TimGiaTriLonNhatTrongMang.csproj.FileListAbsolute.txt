@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\bin\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]TimGiaTriLonNhatTrongMang\obj\Debug\netcoreapp3.1\[th]TimGiaTriLonNhatTrongMang.genruntimeconfig.cache
