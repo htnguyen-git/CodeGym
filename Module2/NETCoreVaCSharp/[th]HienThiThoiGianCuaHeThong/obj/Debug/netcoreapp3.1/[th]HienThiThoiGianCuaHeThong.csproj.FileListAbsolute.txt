@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\bin\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\bin\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\bin\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\bin\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\bin\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\bin\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\obj\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\obj\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\obj\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\obj\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\obj\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\obj\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\[th]HienThiThoiGianCuaHeThong\obj\Debug\netcoreapp3.1\[th]HienThiThoiGianCuaHeThong.genruntimeconfig.cache
