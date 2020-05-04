@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\bin\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\bin\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\bin\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\bin\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\bin\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\bin\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\obj\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\obj\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\obj\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\obj\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\obj\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\obj\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\MangVaPhuongThuc\[th]DaoNguocCacPhanTuCuaMang\obj\Debug\netcoreapp3.1\[th]DaoNguocCacPhanTuCuaMang.genruntimeconfig.cache
