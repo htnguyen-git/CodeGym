@@ -43,7 +43,10 @@ namespace BTVaTHNetCoreVaCShap
                     tienLai.InLaiSuat();
                     break;
                 case "5":
-                    Console.WriteLine();
+                    Console.WriteLine("Tìm ước số chung lớn nhất của 2 số");
+                    var uocSo = new TimUocSoChungLonNhat();
+                    uocSo.Nhap();
+                    uocSo.TinhUocSo();
                     break;
                 case "6":
                     break;
