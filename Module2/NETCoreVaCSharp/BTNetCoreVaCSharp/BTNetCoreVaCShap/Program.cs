@@ -37,8 +37,13 @@ namespace BTVaTHNetCoreVaCShap
                     menu.hienThiMenu();
                     break;
                 case "4":
+                    Console.WriteLine("Tính tiền lãi cho vay");
+                    var tienLai = new TinhTienLaiChoVay();
+                    tienLai.NhapGiaTri();
+                    tienLai.InLaiSuat();
                     break;
                 case "5":
+                    Console.WriteLine();
                     break;
                 case "6":
                     break;
