@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\bin\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\bin\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\bin\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\bin\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\bin\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\bin\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\obj\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\obj\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\obj\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\obj\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\obj\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\obj\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.genruntimeconfig.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\NETCoreVaCSharp\BTNetCoreVaCSharp\BTNetCoreVaCShap\obj\Debug\netcoreapp3.1\BTVaTHNetCoreVaCShap.csprojAssemblyReference.cache
