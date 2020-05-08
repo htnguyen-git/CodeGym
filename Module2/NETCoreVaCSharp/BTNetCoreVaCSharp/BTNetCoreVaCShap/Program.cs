@@ -62,6 +62,9 @@ namespace BTVaTHNetCoreVaCShap
                     htg.InHinhTamGiacVuong2();
                     break;
                 case "7":
+                    Console.WriteLine("In số nguyên tố");
+                    SoNguyenTo.InSoLuong(20);
+                    break;
                     
                 case "8":
                     Console.WriteLine("Đổi USD thành VND");
@@ -69,7 +72,6 @@ namespace BTVaTHNetCoreVaCShap
                     cash.SetUSD();
                     cash.ConvertUSDtoVND(cash.GetUSD());
                     cash.InTienVND();
-                    break;
                     break;
                 case "e":
                     Environment.Exit(0);
