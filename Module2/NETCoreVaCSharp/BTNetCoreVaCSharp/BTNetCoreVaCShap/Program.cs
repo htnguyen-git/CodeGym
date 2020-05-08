@@ -60,12 +60,16 @@ namespace BTVaTHNetCoreVaCShap
                     hcn.InHinhChuNhat();
                     htg.InHinhTamGiacVuong1();
                     htg.InHinhTamGiacVuong2();
-                    Console.Read();
-                    
                     break;
                 case "7":
-                    break;
+                    
                 case "8":
+                    Console.WriteLine("Đổi USD thành VND");
+                    var cash = new ChuyenDoiTienTe();
+                    cash.SetUSD();
+                    cash.ConvertUSDtoVND(cash.GetUSD());
+                    cash.InTienVND();
+                    break;
                     break;
                 case "e":
                     Environment.Exit(0);
@@ -74,6 +78,7 @@ namespace BTVaTHNetCoreVaCShap
                     ChonTinhNang();
                     break;
             }
+            Console.Read();
             ChonTinhNang();
         }
         
