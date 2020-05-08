@@ -49,6 +49,19 @@ namespace BTVaTHNetCoreVaCShap
                     uocSo.TinhUocSo();
                     break;
                 case "6":
+                    Console.WriteLine("Hiển thị các loại hình: chữ nhật, tam giác");
+                    var hcn = new VeHinhBangDauSao();
+                    var htg = new VeHinhBangDauSao();
+                    Console.WriteLine("Kich thuoc hinh chu nhat");
+                    hcn.NhapChieuCao();
+                    hcn.NhapChieuRong();
+                    Console.WriteLine("Kich thuoc hinh tam giac");
+                    htg.NhapChieuCao();
+                    hcn.InHinhChuNhat();
+                    htg.InHinhTamGiacVuong1();
+                    htg.InHinhTamGiacVuong2();
+                    Console.Read();
+                    
                     break;
                 case "7":
                     break;
