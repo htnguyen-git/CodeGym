@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\bin\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.exe
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\bin\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.deps.json
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\bin\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.runtimeconfig.json
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\bin\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\bin\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.dll
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\bin\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.pdb
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\obj\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\obj\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\obj\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\obj\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\obj\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.dll
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\obj\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.pdb
+C:\Users\tfoso\source\repos\[th]Lớp và đối tượng trong CSharp\[th]Lớp và đối tượng trong CSharp\obj\Debug\netcoreapp3.1\[th]Lớp và đối tượng trong CSharp.genruntimeconfig.cache
