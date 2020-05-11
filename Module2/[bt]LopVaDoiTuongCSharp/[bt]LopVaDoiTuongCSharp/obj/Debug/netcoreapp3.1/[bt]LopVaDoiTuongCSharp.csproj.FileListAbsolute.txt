@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\bin\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\bin\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\bin\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\bin\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\bin\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\bin\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\obj\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\obj\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\obj\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\obj\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\obj\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\obj\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]LopVaDoiTuongCSharp\[bt]LopVaDoiTuongCSharp\obj\Debug\netcoreapp3.1\[bt]LopVaDoiTuongCSharp.genruntimeconfig.cache
