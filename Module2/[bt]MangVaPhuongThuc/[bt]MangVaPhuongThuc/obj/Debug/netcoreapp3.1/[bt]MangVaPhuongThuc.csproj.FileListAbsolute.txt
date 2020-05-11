@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\obj\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\obj\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\obj\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\obj\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\bin\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\bin\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\bin\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\bin\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\bin\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\bin\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\obj\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\obj\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]MangVaPhuongThuc\[bt]MangVaPhuongThuc\obj\Debug\netcoreapp3.1\[bt]MangVaPhuongThuc.genruntimeconfig.cache

@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[th]ChuongTrinhChuyenDoiNhi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[th]TimGiaTriLonNhatTrongMang", "[th]TimGiaTriLonNhatTrongMang\[th]TimGiaTriLonNhatTrongMang.csproj", "{C6E1A843-115D-4209-A838-DA920FDB9DA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[th]TimGiaTriNhoNhatSuDungPhuongThuc", "[th]TimGiaTriNhoNhatSuDungPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc.csproj", "{4931E481-FC13-4A92-A466-80F830E285AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[th]TimGiaTriNhoNhatSuDungPhuongThuc", "[th]TimGiaTriNhoNhatSuDungPhuongThuc\[th]TimGiaTriNhoNhatSuDungPhuongThuc.csproj", "{4931E481-FC13-4A92-A466-80F830E285AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
