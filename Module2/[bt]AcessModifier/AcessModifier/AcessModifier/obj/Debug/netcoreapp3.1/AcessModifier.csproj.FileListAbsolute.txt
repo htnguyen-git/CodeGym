@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\obj\Debug\netcoreapp3.1\AcessModifier.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\obj\Debug\netcoreapp3.1\AcessModifier.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\obj\Debug\netcoreapp3.1\AcessModifier.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\obj\Debug\netcoreapp3.1\AcessModifier.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\bin\Debug\netcoreapp3.1\AcessModifier.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\bin\Debug\netcoreapp3.1\AcessModifier.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\bin\Debug\netcoreapp3.1\AcessModifier.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\bin\Debug\netcoreapp3.1\AcessModifier.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\bin\Debug\netcoreapp3.1\AcessModifier.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\bin\Debug\netcoreapp3.1\AcessModifier.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\obj\Debug\netcoreapp3.1\AcessModifier.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\obj\Debug\netcoreapp3.1\AcessModifier.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AcessModifier\AcessModifier\AcessModifier\obj\Debug\netcoreapp3.1\AcessModifier.genruntimeconfig.cache
