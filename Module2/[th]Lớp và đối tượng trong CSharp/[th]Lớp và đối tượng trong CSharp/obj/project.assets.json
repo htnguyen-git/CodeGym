@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tfoso\\source\\repos\\[th]Lớp và đối tượng trong CSharp\\[th]Lớp và đối tượng trong CSharp\\[th]Lớp và đối tượng trong CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\[th]Lớp và đối tượng trong CSharp\\[th]Lớp và đối tượng trong CSharp\\[th]Lớp và đối tượng trong CSharp.csproj",
       "projectName": "[th]Lớp và đối tượng trong CSharp",
-      "projectPath": "C:\\Users\\tfoso\\source\\repos\\[th]Lớp và đối tượng trong CSharp\\[th]Lớp và đối tượng trong CSharp\\[th]Lớp và đối tượng trong CSharp.csproj",
+      "projectPath": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\[th]Lớp và đối tượng trong CSharp\\[th]Lớp và đối tượng trong CSharp\\[th]Lớp và đối tượng trong CSharp.csproj",
       "packagesPath": "C:\\Users\\tfoso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tfoso\\source\\repos\\[th]Lớp và đối tượng trong CSharp\\[th]Lớp và đối tượng trong CSharp\\obj\\",
+      "outputPath": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\[th]Lớp và đối tượng trong CSharp\\[th]Lớp và đối tượng trong CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
