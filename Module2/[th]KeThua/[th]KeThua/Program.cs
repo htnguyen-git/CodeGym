@@ -25,6 +25,8 @@ namespace _th_KeThua
             Console.WriteLine(sqr.ToString());
             Console.ReadKey();
 
+            Triangle tri = new Triangle(3, 4, 5);
+            Console.WriteLine(tri.ToString());
         }
     }
 }
