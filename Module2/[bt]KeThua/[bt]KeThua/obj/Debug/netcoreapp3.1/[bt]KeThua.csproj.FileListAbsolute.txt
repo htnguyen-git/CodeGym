@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\bin\Debug\netcoreapp3.1\[bt]KeThua.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\bin\Debug\netcoreapp3.1\[bt]KeThua.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\bin\Debug\netcoreapp3.1\[bt]KeThua.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\bin\Debug\netcoreapp3.1\[bt]KeThua.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\bin\Debug\netcoreapp3.1\[bt]KeThua.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\bin\Debug\netcoreapp3.1\[bt]KeThua.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\obj\Debug\netcoreapp3.1\[bt]KeThua.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\obj\Debug\netcoreapp3.1\[bt]KeThua.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\obj\Debug\netcoreapp3.1\[bt]KeThua.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\obj\Debug\netcoreapp3.1\[bt]KeThua.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\obj\Debug\netcoreapp3.1\[bt]KeThua.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\obj\Debug\netcoreapp3.1\[bt]KeThua.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KeThua\[bt]KeThua\obj\Debug\netcoreapp3.1\[bt]KeThua.genruntimeconfig.cache
