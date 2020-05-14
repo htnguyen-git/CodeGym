@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\bin\Debug\netcoreapp3.1\AbstractClassVaInterface.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\bin\Debug\netcoreapp3.1\AbstractClassVaInterface.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\bin\Debug\netcoreapp3.1\AbstractClassVaInterface.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\bin\Debug\netcoreapp3.1\AbstractClassVaInterface.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\bin\Debug\netcoreapp3.1\AbstractClassVaInterface.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\bin\Debug\netcoreapp3.1\AbstractClassVaInterface.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\obj\Debug\netcoreapp3.1\AbstractClassVaInterface.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\obj\Debug\netcoreapp3.1\AbstractClassVaInterface.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\obj\Debug\netcoreapp3.1\AbstractClassVaInterface.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\obj\Debug\netcoreapp3.1\AbstractClassVaInterface.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\obj\Debug\netcoreapp3.1\AbstractClassVaInterface.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\obj\Debug\netcoreapp3.1\AbstractClassVaInterface.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\AbstractClassVaInterface\AbstractClassVaInterface\obj\Debug\netcoreapp3.1\AbstractClassVaInterface.genruntimeconfig.cache
