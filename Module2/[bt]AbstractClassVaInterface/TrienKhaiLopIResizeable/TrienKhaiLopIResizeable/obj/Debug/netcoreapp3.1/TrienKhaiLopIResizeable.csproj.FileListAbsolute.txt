@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\bin\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\bin\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\bin\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\bin\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\bin\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\bin\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\obj\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\obj\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\obj\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\obj\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\obj\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\obj\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.genruntimeconfig.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]AbstractClassVaInterface\TrienKhaiLopIResizeable\TrienKhaiLopIResizeable\obj\Debug\netcoreapp3.1\TrienKhaiLopIResizeable.csprojAssemblyReference.cache
