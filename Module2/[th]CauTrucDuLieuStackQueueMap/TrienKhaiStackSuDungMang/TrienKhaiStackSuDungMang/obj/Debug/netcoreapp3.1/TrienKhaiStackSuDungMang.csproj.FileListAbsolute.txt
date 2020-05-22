@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungMang\TrienKhaiStackSuDungMang\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungMang.genruntimeconfig.cache
