@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\bin\Debug\netcoreapp3.1\PhanLoaiTamGiac.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\bin\Debug\netcoreapp3.1\PhanLoaiTamGiac.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\bin\Debug\netcoreapp3.1\PhanLoaiTamGiac.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\bin\Debug\netcoreapp3.1\PhanLoaiTamGiac.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\bin\Debug\netcoreapp3.1\PhanLoaiTamGiac.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\bin\Debug\netcoreapp3.1\PhanLoaiTamGiac.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\obj\Debug\netcoreapp3.1\PhanLoaiTamGiac.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\obj\Debug\netcoreapp3.1\PhanLoaiTamGiac.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\obj\Debug\netcoreapp3.1\PhanLoaiTamGiac.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\obj\Debug\netcoreapp3.1\PhanLoaiTamGiac.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\obj\Debug\netcoreapp3.1\PhanLoaiTamGiac.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\obj\Debug\netcoreapp3.1\PhanLoaiTamGiac.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\PhanLoaiTamGiac\PhanLoaiTamGiac\obj\Debug\netcoreapp3.1\PhanLoaiTamGiac.genruntimeconfig.cache
