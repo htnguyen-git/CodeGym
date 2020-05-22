@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\bin\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\bin\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\bin\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\bin\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\bin\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\bin\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\obj\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\obj\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\obj\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\obj\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\obj\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\obj\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopListDonGian\TrienKhaiLopListDonGian\obj\Debug\netcoreapp3.1\TrienKhaiLopListDonGian.genruntimeconfig.cache
