@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieu\TrienKhaiLopLinkedList\TrienKhaiLopLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiLopLinkedList.genruntimeconfig.cache
