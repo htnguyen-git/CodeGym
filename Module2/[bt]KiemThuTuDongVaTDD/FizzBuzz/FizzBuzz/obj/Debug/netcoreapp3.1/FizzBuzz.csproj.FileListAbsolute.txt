@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]KiemThuTuDongVaTDD\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
