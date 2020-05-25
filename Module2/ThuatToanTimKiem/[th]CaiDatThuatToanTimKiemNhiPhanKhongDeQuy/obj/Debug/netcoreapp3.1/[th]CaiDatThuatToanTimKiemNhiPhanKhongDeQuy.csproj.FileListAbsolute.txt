@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\bin\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\bin\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\bin\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\bin\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\bin\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\bin\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\obj\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\obj\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\obj\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\obj\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\obj\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\obj\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy\obj\Debug\netcoreapp3.1\[th]CaiDatThuatToanTimKiemNhiPhanKhongDeQuy.genruntimeconfig.cache
