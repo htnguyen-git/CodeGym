@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\bin\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]CauTrucDuLieuStackQueueMap\TrienKhaiStackSuDungLinkedList\TrienKhaiStackSuDungLinkedList\obj\Debug\netcoreapp3.1\TrienKhaiStackSuDungLinkedList.genruntimeconfig.cache
