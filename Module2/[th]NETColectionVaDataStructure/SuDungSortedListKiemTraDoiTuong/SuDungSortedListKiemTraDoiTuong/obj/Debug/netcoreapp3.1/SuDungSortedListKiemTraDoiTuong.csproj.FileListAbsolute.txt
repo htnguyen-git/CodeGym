@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\bin\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\bin\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\bin\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\bin\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\bin\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\bin\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\obj\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\obj\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\obj\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\obj\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\obj\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\obj\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[th]NETColectionVaDataStructure\SuDungSortedListKiemTraDoiTuong\SuDungSortedListKiemTraDoiTuong\obj\Debug\netcoreapp3.1\SuDungSortedListKiemTraDoiTuong.genruntimeconfig.cache
