@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\bin\Debug\netcoreapp3.1\[bt]NetCollection.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\bin\Debug\netcoreapp3.1\[bt]NetCollection.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\bin\Debug\netcoreapp3.1\[bt]NetCollection.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\bin\Debug\netcoreapp3.1\[bt]NetCollection.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\bin\Debug\netcoreapp3.1\[bt]NetCollection.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\bin\Debug\netcoreapp3.1\[bt]NetCollection.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\obj\Debug\netcoreapp3.1\[bt]NetCollection.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\obj\Debug\netcoreapp3.1\[bt]NetCollection.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\obj\Debug\netcoreapp3.1\[bt]NetCollection.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\obj\Debug\netcoreapp3.1\[bt]NetCollection.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\obj\Debug\netcoreapp3.1\[bt]NetCollection.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\obj\Debug\netcoreapp3.1\[bt]NetCollection.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\[bt]NetCollection\obj\Debug\netcoreapp3.1\[bt]NetCollection.genruntimeconfig.cache
