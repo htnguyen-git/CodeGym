@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\obj\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\obj\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\obj\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\obj\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\bin\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\bin\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\bin\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\bin\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\bin\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\bin\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\obj\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\obj\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanTimKiem\[bt]TimKiemNhiPhanSuDungDeQuy\obj\Debug\netcoreapp3.1\[bt]TimKiemNhiPhanSuDungDeQuy.genruntimeconfig.cache
