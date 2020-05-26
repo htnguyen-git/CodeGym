@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\bin\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\bin\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\bin\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\bin\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\bin\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\bin\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\obj\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\obj\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\obj\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\obj\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\obj\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\obj\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\CaiDatThuatToanSapXepChen\obj\Debug\netcoreapp3.1\CaiDatThuatToanSapXepChen.genruntimeconfig.cache

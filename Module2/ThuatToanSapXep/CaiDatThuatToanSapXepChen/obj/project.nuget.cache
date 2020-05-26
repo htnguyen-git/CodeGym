@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8C80oAC64Q6VOQsqsVMVtam5SAeLBwrRWcdVgjshtPfzUv6oeE0j9ME2Ic+1P7rfWs9BuD+QEi32OyZ43WBIHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\ThuatToanSapXep\\CaiDatThuatToanSapXepChen\\CaiDatThuatToanSapXepChen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfoso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
