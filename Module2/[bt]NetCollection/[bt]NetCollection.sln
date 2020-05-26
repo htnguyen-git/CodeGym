@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[bt]NetCollection", "[bt]NetCollection\[bt]NetCollection.csproj", "{782EE3EE-3462-4B7A-9491-42F1CC4951F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungLinqVoiArrayList", "SuDungLinqVoiArrayList\SuDungLinqVoiArrayList.csproj", "{5D5B69F3-69FF-4CA6-AF3C-E963979D169A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{782EE3EE-3462-4B7A-9491-42F1CC4951F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{782EE3EE-3462-4B7A-9491-42F1CC4951F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{782EE3EE-3462-4B7A-9491-42F1CC4951F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{782EE3EE-3462-4B7A-9491-42F1CC4951F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5B69F3-69FF-4CA6-AF3C-E963979D169A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5B69F3-69FF-4CA6-AF3C-E963979D169A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5B69F3-69FF-4CA6-AF3C-E963979D169A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5B69F3-69FF-4CA6-AF3C-E963979D169A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

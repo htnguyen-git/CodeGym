@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\obj\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\obj\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\obj\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\obj\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\bin\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\bin\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\bin\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\bin\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\bin\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\bin\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\obj\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\obj\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\SuDungLinqVoiArrayList\obj\Debug\netcoreapp3.1\SuDungLinqVoiArrayList.genruntimeconfig.cache
