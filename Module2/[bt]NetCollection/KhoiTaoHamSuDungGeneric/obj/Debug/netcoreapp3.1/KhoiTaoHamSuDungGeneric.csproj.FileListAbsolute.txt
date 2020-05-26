@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\bin\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\bin\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\bin\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\bin\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\bin\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\bin\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\obj\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\obj\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\obj\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\obj\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\obj\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\obj\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[bt]NetCollection\KhoiTaoHamSuDungGeneric\obj\Debug\netcoreapp3.1\KhoiTaoHamSuDungGeneric.genruntimeconfig.cache
