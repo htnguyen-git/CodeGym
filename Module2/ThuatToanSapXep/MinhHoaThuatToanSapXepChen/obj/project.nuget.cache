@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gB2/RmuyRuiAcQCwSmOVoiY4+aCWBuPpIuodFCCBuj1+dWo43KoXqJQdPPTXLjTJfwSS0j1tDsnQv5zu+R6o1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\ThuatToanSapXep\\MinhHoaThuatToanSapXepChen\\MinhHoaThuatToanSapXepChen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfoso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
