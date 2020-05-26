@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\bin\Debug\netcoreapp3.1\[bt]InvalidOperationException.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\bin\Debug\netcoreapp3.1\[bt]InvalidOperationException.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\bin\Debug\netcoreapp3.1\[bt]InvalidOperationException.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\bin\Debug\netcoreapp3.1\[bt]InvalidOperationException.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\bin\Debug\netcoreapp3.1\[bt]InvalidOperationException.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\bin\Debug\netcoreapp3.1\[bt]InvalidOperationException.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\obj\Debug\netcoreapp3.1\[bt]InvalidOperationException.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\obj\Debug\netcoreapp3.1\[bt]InvalidOperationException.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\obj\Debug\netcoreapp3.1\[bt]InvalidOperationException.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\obj\Debug\netcoreapp3.1\[bt]InvalidOperationException.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\obj\Debug\netcoreapp3.1\[bt]InvalidOperationException.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\[bt]InvalidOperationException\obj\Debug\netcoreapp3.1\[bt]InvalidOperationException.genruntimeconfig.cache
