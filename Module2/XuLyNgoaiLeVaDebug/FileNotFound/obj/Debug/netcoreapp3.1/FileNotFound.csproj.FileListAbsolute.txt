@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\bin\Debug\netcoreapp3.1\FileNotFound.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\bin\Debug\netcoreapp3.1\FileNotFound.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\bin\Debug\netcoreapp3.1\FileNotFound.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\bin\Debug\netcoreapp3.1\FileNotFound.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\bin\Debug\netcoreapp3.1\FileNotFound.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\bin\Debug\netcoreapp3.1\FileNotFound.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\obj\Debug\netcoreapp3.1\FileNotFound.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\obj\Debug\netcoreapp3.1\FileNotFound.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\obj\Debug\netcoreapp3.1\FileNotFound.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\obj\Debug\netcoreapp3.1\FileNotFound.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\obj\Debug\netcoreapp3.1\FileNotFound.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\obj\Debug\netcoreapp3.1\FileNotFound.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\FileNotFound\obj\Debug\netcoreapp3.1\FileNotFound.genruntimeconfig.cache

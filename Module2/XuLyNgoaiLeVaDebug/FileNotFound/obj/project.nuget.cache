@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LuQnSP2yBSQHtNRcCQL8q5Q7JSUWhbrikzarB1sfn8OYj00m5cJGJlTkTYxtcQ/Allrj7CDktqw5VXo+z32FOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\XuLyNgoaiLeVaDebug\\FileNotFound\\FileNotFound.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfoso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
