@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\bin\Debug\netcoreapp3.1\DiviveByZero.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\bin\Debug\netcoreapp3.1\DiviveByZero.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\bin\Debug\netcoreapp3.1\DiviveByZero.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\bin\Debug\netcoreapp3.1\DiviveByZero.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\bin\Debug\netcoreapp3.1\DiviveByZero.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\bin\Debug\netcoreapp3.1\DiviveByZero.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\obj\Debug\netcoreapp3.1\DiviveByZero.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\obj\Debug\netcoreapp3.1\DiviveByZero.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\obj\Debug\netcoreapp3.1\DiviveByZero.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\obj\Debug\netcoreapp3.1\DiviveByZero.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\obj\Debug\netcoreapp3.1\DiviveByZero.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\obj\Debug\netcoreapp3.1\DiviveByZero.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\DiviveByZero\obj\Debug\netcoreapp3.1\DiviveByZero.genruntimeconfig.cache

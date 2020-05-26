@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cqf+bYnCo9Pmr4LnlF88ll/JjN9klOOhOh+14WFkgl7Bou+B2f806c6pdOWkQKnTxSJS4SbpgG+61WU3vHiuNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\XuLyNgoaiLeVaDebug\\DiviveByZero\\DiviveByZero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfoso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
