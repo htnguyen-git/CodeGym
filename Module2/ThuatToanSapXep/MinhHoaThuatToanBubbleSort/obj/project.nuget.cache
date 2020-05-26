@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjfKlTBsQSjdeNUpoBjihdGvlnAkjkfh7iTRFqh7c+eT0Wx+0xP9ldsX9Vs0vdf8WVqHpeZthv8TY1BkTe0Xfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\ThuatToanSapXep\\MinhHoaThuatToanBubbleSort\\MinhHoaThuatToanBubbleSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfoso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

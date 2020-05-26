@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\bin\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\bin\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\bin\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\bin\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\bin\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\bin\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\obj\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\obj\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\obj\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\obj\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\obj\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanBubbleSort\obj\Debug\netcoreapp3.1\MinhHoaThuatToanBubbleSort.genruntimeconfig.cache
