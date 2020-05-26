@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\obj\Debug\netcoreapp3.1\XuLyOutOfRange.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\obj\Debug\netcoreapp3.1\XuLyOutOfRange.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\obj\Debug\netcoreapp3.1\XuLyOutOfRange.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\bin\Debug\netcoreapp3.1\XuLyOutOfRange.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\bin\Debug\netcoreapp3.1\XuLyOutOfRange.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\bin\Debug\netcoreapp3.1\XuLyOutOfRange.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\bin\Debug\netcoreapp3.1\XuLyOutOfRange.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\bin\Debug\netcoreapp3.1\XuLyOutOfRange.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\bin\Debug\netcoreapp3.1\XuLyOutOfRange.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\obj\Debug\netcoreapp3.1\XuLyOutOfRange.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\obj\Debug\netcoreapp3.1\XuLyOutOfRange.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\XuLyOutOfRange\obj\Debug\netcoreapp3.1\XuLyOutOfRange.genruntimeconfig.cache

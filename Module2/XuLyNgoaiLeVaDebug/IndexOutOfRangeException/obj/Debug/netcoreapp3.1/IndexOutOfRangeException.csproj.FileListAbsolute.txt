@@ -1,0 +1,3 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\XuLyNgoaiLeVaDebug\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.csproj.CoreCompileInputs.cache
