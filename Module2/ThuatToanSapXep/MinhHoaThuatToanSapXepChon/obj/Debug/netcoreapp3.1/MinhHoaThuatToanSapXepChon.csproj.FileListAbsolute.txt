@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\bin\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\bin\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\bin\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\bin\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\bin\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\bin\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\obj\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\obj\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\obj\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\obj\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\obj\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\ThuatToanSapXep\MinhHoaThuatToanSapXepChon\obj\Debug\netcoreapp3.1\MinhHoaThuatToanSapXepChon.genruntimeconfig.cache
