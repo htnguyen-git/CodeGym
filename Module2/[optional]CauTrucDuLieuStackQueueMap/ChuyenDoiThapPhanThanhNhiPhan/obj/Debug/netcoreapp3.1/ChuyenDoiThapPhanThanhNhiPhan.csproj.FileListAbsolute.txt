@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\bin\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\bin\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\bin\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\bin\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\bin\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\bin\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\obj\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\obj\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\obj\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\obj\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\obj\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\[optional]CauTrucDuLieuStackQueueMap\ChuyenDoiThapPhanThanhNhiPhan\obj\Debug\netcoreapp3.1\ChuyenDoiThapPhanThanhNhiPhan.genruntimeconfig.cache
