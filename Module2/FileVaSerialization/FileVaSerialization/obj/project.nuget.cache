@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lCPJZWV4DhYSbKH4wJMOdRi0DFf6yQEw11gxlByipNm6Q98pR9UoziA9VuRV3bnM/B4QhpbUhxnxf0Fs9pUTPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\FileVaSerialization\\FileVaSerialization\\FileVaSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfoso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
