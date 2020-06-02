@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\obj\Debug\netcoreapp3.1\RacingCar.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\obj\Debug\netcoreapp3.1\RacingCar.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\obj\Debug\netcoreapp3.1\RacingCar.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\obj\Debug\netcoreapp3.1\RacingCar.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\bin\Debug\netcoreapp3.1\RacingCar.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\bin\Debug\netcoreapp3.1\RacingCar.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\bin\Debug\netcoreapp3.1\RacingCar.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\bin\Debug\netcoreapp3.1\RacingCar.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\bin\Debug\netcoreapp3.1\RacingCar.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\bin\Debug\netcoreapp3.1\RacingCar.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\obj\Debug\netcoreapp3.1\RacingCar.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\obj\Debug\netcoreapp3.1\RacingCar.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\RacingCar\obj\Debug\netcoreapp3.1\RacingCar.genruntimeconfig.cache
