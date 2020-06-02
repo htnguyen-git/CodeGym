@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MPxF3S1GCdVVHaTU+oxcH2I8TQ7ZHhn4HiADyeUk26lsQDrvazylGD3yxbiPLj+uWwGdyvwsC2y4vYEK9JvTPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\Threading\\HienThiSoChanLe\\HienThiSoChanLe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfoso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
