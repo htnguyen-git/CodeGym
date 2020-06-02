@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\bin\Debug\netcoreapp3.1\TImSoNguyenTo.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\bin\Debug\netcoreapp3.1\TImSoNguyenTo.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\bin\Debug\netcoreapp3.1\TImSoNguyenTo.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\bin\Debug\netcoreapp3.1\TImSoNguyenTo.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\bin\Debug\netcoreapp3.1\TImSoNguyenTo.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\bin\Debug\netcoreapp3.1\TImSoNguyenTo.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\obj\Debug\netcoreapp3.1\TImSoNguyenTo.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\obj\Debug\netcoreapp3.1\TImSoNguyenTo.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\obj\Debug\netcoreapp3.1\TImSoNguyenTo.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\obj\Debug\netcoreapp3.1\TImSoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\obj\Debug\netcoreapp3.1\TImSoNguyenTo.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\obj\Debug\netcoreapp3.1\TImSoNguyenTo.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TImSoNguyenTo\obj\Debug\netcoreapp3.1\TImSoNguyenTo.genruntimeconfig.cache
