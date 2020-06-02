@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\bin\Debug\netcoreapp3.1\TaoThreadingDonGian.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\bin\Debug\netcoreapp3.1\TaoThreadingDonGian.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\bin\Debug\netcoreapp3.1\TaoThreadingDonGian.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\bin\Debug\netcoreapp3.1\TaoThreadingDonGian.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\bin\Debug\netcoreapp3.1\TaoThreadingDonGian.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\bin\Debug\netcoreapp3.1\TaoThreadingDonGian.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\obj\Debug\netcoreapp3.1\TaoThreadingDonGian.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\obj\Debug\netcoreapp3.1\TaoThreadingDonGian.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\obj\Debug\netcoreapp3.1\TaoThreadingDonGian.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\obj\Debug\netcoreapp3.1\TaoThreadingDonGian.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\obj\Debug\netcoreapp3.1\TaoThreadingDonGian.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\obj\Debug\netcoreapp3.1\TaoThreadingDonGian.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\Threading\TaoThreadingDonGian\obj\Debug\netcoreapp3.1\TaoThreadingDonGian.genruntimeconfig.cache

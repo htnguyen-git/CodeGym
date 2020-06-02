@@ -21,6 +21,7 @@ namespace RacingCar
 
 			thread3.Start();
 
+
 			Console.ReadLine();
 		}
     }
