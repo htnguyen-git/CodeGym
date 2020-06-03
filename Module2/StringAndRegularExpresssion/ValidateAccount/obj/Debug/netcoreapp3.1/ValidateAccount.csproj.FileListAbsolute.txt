@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.genruntimeconfig.cache

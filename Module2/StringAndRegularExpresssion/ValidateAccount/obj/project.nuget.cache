@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ju5YT7hF/flYi7yXomUa/d/GNEvVdbkKY4ZwoYYugKA+Kqp+Z/HsMMWBUdr5qmVPV7tDDLislC7sMkZa3fo27w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\StringAndRegularExpresssion\\ValidateAccount\\ValidateAccount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfoso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
