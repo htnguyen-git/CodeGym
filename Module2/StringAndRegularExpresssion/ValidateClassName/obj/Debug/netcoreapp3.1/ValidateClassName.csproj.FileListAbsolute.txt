@@ -1,0 +1,12 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\bin\Debug\netcoreapp3.1\ValidateClassName.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\bin\Debug\netcoreapp3.1\ValidateClassName.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\bin\Debug\netcoreapp3.1\ValidateClassName.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\bin\Debug\netcoreapp3.1\ValidateClassName.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\bin\Debug\netcoreapp3.1\ValidateClassName.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\bin\Debug\netcoreapp3.1\ValidateClassName.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\obj\Debug\netcoreapp3.1\ValidateClassName.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\obj\Debug\netcoreapp3.1\ValidateClassName.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\obj\Debug\netcoreapp3.1\ValidateClassName.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\obj\Debug\netcoreapp3.1\ValidateClassName.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\obj\Debug\netcoreapp3.1\ValidateClassName.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidateClassName\obj\Debug\netcoreapp3.1\ValidateClassName.genruntimeconfig.cache
