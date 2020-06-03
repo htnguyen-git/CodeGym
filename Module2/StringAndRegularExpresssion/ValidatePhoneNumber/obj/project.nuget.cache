@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n3jO5Q8WhOpQw/wIoibUcTf2SlJyG9HcbDqH8hXs3TbbHj95o6ELhzhHal4q1gYlPEWoj3Wh7V0eUZ0rHuEEQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tfoso\\source\\repos\\CodeGym\\Module2\\StringAndRegularExpresssion\\ValidatePhoneNumber\\ValidatePhoneNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfoso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

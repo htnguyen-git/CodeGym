@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.exe
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.deps.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.runtimeconfig.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.dll
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.pdb
+C:\Users\tfoso\source\repos\CodeGym\Module2\StringAndRegularExpresssion\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.genruntimeconfig.cache
