@@ -1,0 +1,13 @@
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.exe
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.deps.json
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.runtimeconfig.json
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.runtimeconfig.dev.json
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.dll
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.pdb
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.csprojAssemblyReference.cache
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.AssemblyInfoInputs.cache
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.AssemblyInfo.cs
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.csproj.CoreCompileInputs.cache
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.dll
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.pdb
+C:\Users\tfoso\source\repos\StringAndRegularExpresssion\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.genruntimeconfig.cache
